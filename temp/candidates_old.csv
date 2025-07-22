@@ -1,0 +1,98 @@
+﻿document,page,text,font_size,is_bold,x,y,char_length,body_font_size,heading
+1812.04202v3.pdf,1,Deep Learning on Graphs: A Survey,24.0,0,112,74,33,9.5,0
+1812.04202v3.pdf,1,"Ziwei Zhang, Peng Cui and Wenwu Zhu, Fellow, IEEE",11.0,0,174,103,49,9.5,0
+1812.04202v3.pdf,1,INTRODUCTION,11.0,1,65,294,12,9.5,0
+1812.04202v3.pdf,2,NOTATIONS AND PRELIMINARIES,11.0,1,329,351,27,9.5,0
+1812.04202v3.pdf,2,"= { v 1, ..., v N } is a set of N = | V | nodes and",9.962599754333496,0,355,377,51,9.5,0
+1812.04202v3.pdf,2,E ⊆ V × V is a set of M = | E | edges between nodes. We use,9.962599754333496,0,312,389,59,9.5,0
+1812.04202v3.pdf,2,"A ∈ RN × N to denote the adjacency matrix, whose i th row, j th",9.962599754333496,0,312,400,63,9.5,0
+1812.04202v3.pdf,2,N k ( i) is a set of nodes reachable from node v i within k -steps.,9.962599754333496,0,311,724,67,9.5,0
+1812.04202v3.pdf,3,GRAPH RECURRENT NEURAL NETWORKS,11.0,1,65,621,31,9.5,0
+1812.04202v3.pdf,3,Node-level RNNs,9.5,1,334,51,15,9.5,0
+1812.04202v3.pdf,3,"s i, another function O ( ·) is applied to get the ﬁnal outputs:",9.962599754333496,0,312,173,64,9.5,0
+1812.04202v3.pdf,3,"y ˆ i = O ( s i, FV",9.962599754333496,0,404,191,19,9.5,0
+1812.04202v3.pdf,3,"∥F ( x) −F ( y) ∥≤ µ ∥ x − y ∥, ∀ x, y.",9.962599754333496,0,364,491,39,9.5,0
+1812.04202v3.pdf,4,Graph-level RNNs,9.5,1,70,319,16,9.5,0
+1812.04202v3.pdf,4,GRAPH CONVOLUTIONAL NETWORKS,11.0,1,65,706,28,9.5,0
+1812.04202v3.pdf,4,Convolution Operations,9.5,1,334,428,22,9.5,0
+1812.04202v3.pdf,4,QT u 1,9.962599754333496,0,428,646,6,9.5,0
+1812.04202v3.pdf,4,QT u 2,9.962599754333496,0,478,646,6,9.5,0
+1812.04202v3.pdf,5,"u ′ = QΘQ T u,",9.962599754333496,0,142,488,14,9.5,0
+1812.04202v3.pdf,5,L. A convolutional layer is deﬁned by applying different ﬁlters to,9.962599754333496,0,47,531,66,9.5,0
+1812.04202v3.pdf,5,"= K α l,i,j,",9.962599754333496,0,442,499,12,9.5,0
+1812.04202v3.pdf,6,T k ( x) is the Chebyshev polynomial of order k. The rescaling is,9.962599754333496,0,47,140,65,9.5,0
+1812.04202v3.pdf,6,"D ˜ ( i, i) ˜ D ( j, j)",9.962599754333496,0,169,502,23,9.5,0
+1812.04202v3.pdf,6,N ( i) = N ( i) ∪{ i }. This can be written,9.962599754333496,0,143,534,43,9.5,0
+1812.04202v3.pdf,7,PK H l Θ l ,9.962599754333496,0,173,356,12,9.5,0
+1812.04202v3.pdf,7,"XP ( i, j) = max",9.962599754333496,0,55,566,16,9.5,0
+1812.04202v3.pdf,7,"P ( i, j) P",9.962599754333496,0,160,558,11,9.5,0
+1812.04202v3.pdf,7,"XP. Then, these two convolutions were ensembled by minimizing",9.962599754333496,0,48,602,61,9.5,0
+1812.04202v3.pdf,7,= G l ,9.962599754333496,0,148,743,7,9.5,0
+1812.04202v3.pdf,7,= AGGREGATE l ( { h l,9.962599754333496,0,378,254,21,9.5,0
+1812.04202v3.pdf,7,max {·} is the element-wise maximum. For the LSTM aggre-,9.962599754333496,0,312,376,56,9.5,0
+1812.04202v3.pdf,8,Readout Operations,9.5,1,70,252,18,9.5,0
+1812.04202v3.pdf,8,h G = ρ,9.962599754333496,0,389,270,7,9.5,0
+1812.04202v3.pdf,8,f output is the dimensionality of the output. Eq. (29) can be regarded,9.962599754333496,0,311,315,70,9.5,0
+1812.04202v3.pdf,8,S l = F,9.962599754333496,0,399,626,7,9.5,0
+1812.04202v3.pdf,8,"A l, H l ",9.962599754333496,0,437,626,10,9.5,0
+1812.04202v3.pdf,8,"H l, i.e., coarsening the graph from N l nodes to N l +1 nodes in",9.962599754333496,0,311,744,65,9.5,0
+1812.04202v3.pdf,9,Improvements and Discussions,9.5,1,70,450,28,9.5,0
+1812.04202v3.pdf,9,+ H l.,9.962599754333496,0,491,431,6,9.5,0
+1812.04202v3.pdf,10,h ﬁnal,9.962599754333496,0,96,363,6,9.5,0
+1812.04202v3.pdf,10,= AGGREGATE ( h 0,9.962599754333496,0,118,363,17,9.5,0
+1812.04202v3.pdf,10,h ﬁnal,9.962599754333496,0,81,380,6,9.5,0
+1812.04202v3.pdf,10,"B i → j,i ′ → j ′ =",9.962599754333496,0,92,738,19,9.5,0
+1812.04202v3.pdf,10,= FNN ( h l ′,9.962599754333496,0,366,208,13,9.5,0
+1812.04202v3.pdf,10,= FEE ( e l ′,9.962599754333496,0,462,208,13,9.5,0
+1812.04202v3.pdf,10,F ( ·) are learnable functions whose subscripts represent message-,9.962599754333496,0,311,241,66,9.5,0
+1812.04202v3.pdf,11,"v i, respectively. We can see that Eq. (41) is very similar to the",9.962599754333496,0,47,542,66,9.5,0
+1812.04202v3.pdf,11,GRAPH AUTOENCODERS,11.0,1,329,331,18,9.5,0
+1812.04202v3.pdf,11,Autoencoders,9.5,1,334,438,12,9.5,0
+1812.04202v3.pdf,11,"h i ∈ R d is the low-dimensional representation of node v i, F ( ·) is",9.962599754333496,0,311,580,70,9.5,0
+1812.04202v3.pdf,12,"b ij = β > 1, and β is another hyper-parameter. The overall",9.962599754333496,0,48,610,59,9.5,0
+1812.04202v3.pdf,12,H = GCN,9.962599754333496,0,128,743,7,9.5,0
+1812.04202v3.pdf,12,"A ˆ ( i, j) = H ( i, :) Θ de H ( j, :) T,",9.962599754333496,0,376,227,41,9.5,0
+1812.04202v3.pdf,12,"∀ i, ∀ j, ∀ j ′ s.t. d ( i, j) < d ( i, j ′),",9.962599754333496,0,374,605,45,9.5,0
+1812.04202v3.pdf,12,"q ( ·) and p ( ·) [111]. In other words, the constraints ensure that the",9.962599754333496,0,311,645,72,9.5,0
+1812.04202v3.pdf,13,Variational Autoencoders,9.5,1,70,241,24,9.5,0
+1812.04202v3.pdf,13,h i h T,9.962599754333496,0,205,336,7,9.5,0
+1812.04202v3.pdf,13,M = GCN M,9.962599754333496,0,58,412,9,9.5,0
+1812.04202v3.pdf,13,", log Σ = GCN Σ",9.962599754333496,0,157,412,15,9.5,0
+1812.04202v3.pdf,13,"L = E q ( H | FV, A) [log p ( A | H)] − KL",9.962599754333496,0,48,464,42,9.5,0
+1812.04202v3.pdf,13,"H | FV, A",9.962599754333496,0,216,464,9,9.5,0
+1812.04202v3.pdf,13,= W 2 ( h j || h i) is the 2 nd Wasserstein distance,9.962599754333496,0,98,625,52,9.5,0
+1812.04202v3.pdf,13,"{ ( i, j, j ′) | j ∈N ( i), j ′ ∈N / ( i) } is a set of triples corresponding",9.962599754333496,0,48,648,77,9.5,0
+1812.04202v3.pdf,13,Improvements and Discussions,9.5,1,334,51,28,9.5,0
+1812.04202v3.pdf,14,GRAPH REINFORCEMENT LEARNING,11.0,1,65,362,28,9.5,0
+1812.04202v3.pdf,14,T is the total time steps and S t is the environment.,9.962599754333496,0,312,414,53,9.5,0
+1812.04202v3.pdf,14,GRAPH ADVERSARIAL METHODS,11.0,1,329,559,25,9.5,0
+1812.04202v3.pdf,14,Adversarial Training,9.5,1,334,648,20,9.5,0
+1812.04202v3.pdf,15,"D ( v, v i) = σ ( d v d T",9.962599754333496,0,56,351,25,9.5,0
+1812.04202v3.pdf,15,exp( g v g T,9.962599754333496,0,209,344,12,9.5,0
+1812.04202v3.pdf,15,Adversarial Attacks,9.5,1,70,718,19,9.5,0
+1812.04202v3.pdf,15,"c true, the targeted model as F ( A, FV) and its loss function as",9.962599754333496,0,312,288,65,9.5,0
+1812.04202v3.pdf,15,"LF ( A, FV), the model adopted the following objective function:",9.962599754333496,0,312,299,64,9.5,0
+1812.04202v3.pdf,15,argmax,9.962599754333496,0,348,328,6,9.5,0
+1812.04202v3.pdf,15,"s.t. Z ∗ = F θ ∗ ( A ′, FV ′), θ ∗ = argmin θ LF ( A ′, FV ′),",9.962599754333496,0,322,351,62,9.5,0
+1812.04202v3.pdf,15,"v 0) and inﬂuence attack (only attacking other nodes), and several",9.962599754333496,0,311,531,66,9.5,0
+1812.04202v3.pdf,16,DISCUSSIONS AND CONCLUSION,11.0,1,65,51,26,9.5,0
+1812.04202v3.pdf,16,Applications,9.5,1,70,128,12,9.5,0
+1812.04202v3.pdf,16,Implementations,9.5,1,70,492,15,9.5,0
+1812.04202v3.pdf,16,Future Directions,9.5,1,70,615,17,9.5,0
+1812.04202v3.pdf,16,Summary,9.5,1,334,578,7,9.5,0
+1812.04202v3.pdf,16,ACKNOWLEDGEMENT,11.0,1,312,682,15,9.5,0
+1812.04202v3.pdf,17,REFERENCES,11.0,1,48,243,10,9.5,0
+1812.04202v3.pdf,21,APPENDIX A,11.0,1,48,51,10,9.5,0
+1812.04202v3.pdf,21,SOURCE CODES,11.0,1,48,65,12,9.5,0
+1812.04202v3.pdf,21,APPENDIX B,11.0,1,48,172,10,9.5,0
+1812.04202v3.pdf,21,APPLICABILITY FOR COMMON TASKS,11.0,1,48,186,30,9.5,0
+1812.04202v3.pdf,21,APPENDIX C,11.0,1,48,294,10,9.5,0
+1812.04202v3.pdf,21,NODE CLASSIFICATION RESULTS ON BENCHMARK,11.0,1,48,307,40,9.5,0
+1812.04202v3.pdf,21,DATASETS,11.0,1,48,321,8,9.5,0
+1812.04202v3.pdf,21,APPENDIX D,11.0,1,312,335,10,9.5,0
+1812.04202v3.pdf,21,AN EXAMPLE OF GRAPH SIGNALS,11.0,1,312,349,27,9.5,0
+1812.04202v3.pdf,21,ˆ f = QT f,9.962599754333496,0,419,517,10,9.5,0
+1812.04202v3.pdf,21,"ˆ f i = QT ( i, :) f.",9.962599754333496,0,407,547,21,9.5,0
+1812.04202v3.pdf,23,APPENDIX E,11.0,1,48,501,10,9.5,0
+1812.04202v3.pdf,23,TIME COMPLEXITY,11.0,1,48,515,15,9.5,0
+1812.04202v3.pdf,24,O ( M) through personal communications with the authors.,9.962599754333496,0,66,732,56,9.5,0
