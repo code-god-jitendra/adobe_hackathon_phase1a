@@ -1,0 +1,275 @@
+{
+  "title": "IAB-FORSCHUNGSBERICHT",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "IAB-FORSCHUNGSBERICHT",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "7|2024 Arbeitskräftebedarf und Arbeitskräfteangebot entlang",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "der Wertschöpfungskette Wasserstoff: Szenario-v2.1",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ISSN 2195-2655",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Arbeitskräftebedarf und",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Arbeitskräfteangebot entlang der",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Wertschöpfungskette Wasserstoff:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Szenario-v2.1",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "In aller Kürze",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Inhalt",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Zusammenfassung",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Summary",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Danksagung",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "1 Einleitung",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "2 Modellierung und Annahmen",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Das QuBe-Modellinstrumentarium",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "IN terindustry FOR ecasting Ge rmany). Die darin enthaltenen Module werden simultan gelöst und",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2 Szenariotechnik",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Szenario. Neben der Fortschreibung vergangener Trends und Verhaltensweisen beinhaltet sie",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.3 Annahmen",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Ergebnisse",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Gesamtwirtschaft",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Arbeitsmarkt",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Sensitivitätsanalyse",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Schlussfolgerungen",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "Literatur",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "Anhang",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "A1 Wasserstoffbedarf",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Energieversorgung",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Straßenverkehr",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "A2 Inländische Wasserstofferzeugung",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "A3 Umrüstungsinvestitionen",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "A4 Wasserstoffgestehungskosten",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "A5 Wasserstoffimportkosten",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "A6 Wasserstoffinfrastruktur",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Importterminals",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Wasserstoffpipelines",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Wasserstoffspeicher",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Wasserstofftankstellen",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "A7 Technologieexport",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "A8 Synthetische Kraftstoffe",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "A9 Weiterbildung",
+      "page": 49
+    },
+    {
+      "level": "H1",
+      "text": "Abbildungsverzeichnis",
+      "page": 50
+    },
+    {
+      "level": "H1",
+      "text": "Tabellenverzeichnis",
+      "page": 50
+    },
+    {
+      "level": "H1",
+      "text": "Impressum",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "IAB-Forschungsbericht 7|2024",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Veröffentlichungsdatum",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Herausgeber",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Nutzungsrechte",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Bezugsmöglichkeit dieses Dokuments",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Bezugsmöglichkeit aller Veröffentlichungen der Reihe „IAB-Forschungsbericht“",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Website",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "ISSN",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Rückfragen zum Inhalt",
+      "page": 52
+    }
+  ]
+}

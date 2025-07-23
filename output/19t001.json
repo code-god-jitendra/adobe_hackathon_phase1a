@@ -1,0 +1,100 @@
+{
+  "title": "RIETI Technical Paper Series 19-T-001",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "RIETI Technical Paper Series 19-T-001",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "市町村合併を考慮した市区町村パネルデータの作成",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "（改訂版）",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "近藤 恵介",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "経済産業研究所",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "市町村合併を考慮した市区町村パネルデータの作成 *",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "近藤恵介 †",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "（経済産業研究所）",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "はじめに",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "コンバータ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1980年時点の市区町村データ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2015年時点の地理単位で集計した",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1980年時点の市区町村データ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2015年時点の市区町村データ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "市区町村コードの変更とコンバータの概念",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "市区町村コンバータの作成方法",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "市区町村コンバータによる市区町村パネルデータの作成方法",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "市区町村コンバータの正確性の検証",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "参考文献",
+      "page": 16
+    }
+  ]
+}
