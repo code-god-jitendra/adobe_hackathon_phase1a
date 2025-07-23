@@ -1,156 +1,3 @@
-# #!/usr/bin/env python3
-# import fitz  # PyMuPDF
-# import csv
-# import os
-# import re
-# from collections import Counter
-
-# INPUT_DIR = "dataset"
-# OUTPUT_CSV = "candidates.csv"
-
-# # a small set of common math symbols
-# MATH_SYMBOLS = set("=+−-*/^()[]{}<>×÷∑∏√∞π")
-
-# def normalize_text(text: str) -> str:
-#     """
-#     Merge stray single-letter tokens into their following token,
-#     e.g. ["I","NTRODUCTION"] -> ["INTRODUCTION"].
-#     """
-#     tokens = text.split()
-#     merged = []
-#     i = 0
-#     while i < len(tokens):
-#         tok = tokens[i]
-#         if len(tok) == 1 and tok.isupper() and (i + 1) < len(tokens):
-#             nxt = tokens[i + 1]
-#             if nxt.isupper():
-#                 merged.append(tok + nxt)
-#                 i += 2
-#                 continue
-#         merged.append(tok)
-#         i += 1
-#     return " ".join(merged)
-
-# def extract_blocks(pdf_path):
-#     """Extract merged text blocks from a PDF, preserving font info."""
-#     doc = fitz.open(pdf_path)
-#     raw = []
-#     font_sizes = []
-
-#     for page in doc:
-#         for b in page.get_text("dict")["blocks"]:
-#             if b["type"] != 0:
-#                 continue
-#             for line in b["lines"]:
-#                 spans = sorted(line["spans"], key=lambda s: s["origin"][0])
-#                 if not spans:
-#                     continue
-
-#                 first = spans[0]
-#                 fs = first["size"]
-#                 fname = first["font"]
-#                 is_bold = bool(re.search(r"bold|black", fname, re.IGNORECASE))
-#                 x0, y0 = first["origin"]
-
-#                 # merge spans
-#                 text = ""
-#                 for sp in spans:
-#                     chunk = sp["text"].strip()
-#                     if not chunk:
-#                         continue
-#                     if text and not re.match(r"[,\.\)\]]", chunk):
-#                         text += " "
-#                     text += chunk
-#                 text = text.strip()
-#                 if not text:
-#                     continue
-
-#                 text = normalize_text(text)
-
-#                 raw.append({
-#                     "text": text,
-#                     "page": page.number + 1,
-#                     "font_size": fs,
-#                     "is_bold": int(is_bold),
-#                     "x": int(x0),
-#                     "y": int(y0),
-#                     "char_length": len(text),
-#                 })
-#                 font_sizes.append(fs)
-
-#     doc.close()
-#     body_font = Counter(font_sizes).most_common(1)[0][0] if font_sizes else None
-#     return raw, body_font
-
-# def is_numerically_dense(text: str, threshold: float = 0.2) -> bool:
-#     """Return True if digits+math symbols exceed threshold proportion."""
-#     length = len(text)
-#     if length == 0:
-#         return True
-#     count = sum(ch.isdigit() or ch in MATH_SYMBOLS for ch in text)
-#     return (count / length) >= threshold
-
-# def main():
-#     rows = []
-#     for fname in sorted(os.listdir(INPUT_DIR)):
-#         if not fname.lower().endswith(".pdf"):
-#             continue
-#         path = os.path.join(INPUT_DIR, fname)
-#         print(f"→ scanning {fname}")
-#         blocks, body_font = extract_blocks(path)
-
-#         for b in blocks:
-#             fs = b["font_size"]
-#             bold = b["is_bold"]
-#             length = b["char_length"]
-#             txt = b["text"]
-
-#             # 1) font-size filter
-#             if body_font is None:
-#                 continue
-#             if fs < body_font:
-#                 continue
-#             if fs == body_font and not bold:
-#                 continue
-
-#             # 2) length filter
-#             if length <= 3 or length >= 100:
-#                 continue
-
-#             # 3) numeric/formula density filter
-#             if is_numerically_dense(txt):
-#                 continue
-
-#             rows.append({
-#                 "document": fname,
-#                 "page": b["page"],
-#                 "text": txt,
-#                 "font_size": fs,
-#                 "is_bold": bold,
-#                 "x": b["x"],
-#                 "y": b["y"],
-#                 "char_length": length,
-#                 "body_font_size": body_font,
-#                 "heading": 0
-#             })
-
-#     # with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
-#     # use 'utf-8-sig' so tools like Excel pick up UTF‑8 properly
-#     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
-#         fieldnames = [
-#             "document","page","text","font_size","is_bold",
-#             "x","y","char_length","body_font_size","heading"
-#         ]
-#         writer = csv.DictWriter(f, fieldnames=fieldnames)
-#         writer.writeheader()
-#         for r in rows:
-#             writer.writerow(r)
-
-#     print(f"✅ Wrote {len(rows)} candidates to {OUTPUT_CSV}")
-
-# if __name__ == "__main__":
-#     main()
-
 #!/usr/bin/env python3
 import fitz  # PyMuPDF
 import csv
@@ -240,6 +87,7 @@ def extract_blocks(pdf_path):
     doc = fitz.open(pdf_path)
     raw = []
     font_sizes = []
+    text_colors = []  # Track text colors
 
     for page in doc:
         page_height = page.rect.height
@@ -255,6 +103,7 @@ def extract_blocks(pdf_path):
                 first = spans[0]
                 fs = first["size"]
                 fname = first["font"]
+                text_color = first.get("color", 0)  # Get text color (0 is typically black)
                 is_bold = bool(re.search(r"bold|black", fname, re.IGNORECASE))
                 x0, y0 = first["origin"]
 
@@ -282,17 +131,22 @@ def extract_blocks(pdf_path):
                     "page": page.number + 1,
                     "font_size": fs,
                     "is_bold": int(is_bold),
+                    "text_color": text_color,
                     "x": int(x0),
                     "y": int(y0),
                     "char_length": len(text),
                 })
                 font_sizes.append(fs)
+                text_colors.append(text_color)
 
     doc.close()
     body_font = Counter(font_sizes).most_common(1)[0][0] if font_sizes else None
-    return raw, body_font
+    # Determine the most common text color (body text color)
+    body_color = Counter(text_colors).most_common(1)[0][0] if text_colors else 0
+    
+    return raw, body_font, body_color
 
-def is_likely_heading(text: str, font_size: float, is_bold: bool, body_font: float) -> bool:
+def is_likely_heading(text: str, font_size: float, is_bold: bool, text_color: int, body_font: float, body_color: int) -> bool:
     """Comprehensive heading detection with improved filtering"""
     # Check for excessive whitespace (>30%)
     if has_excessive_whitespace(text):
@@ -328,10 +182,16 @@ def is_likely_heading(text: str, font_size: float, is_bold: bool, body_font: flo
         
     font_tolerance = body_font * 0.1
     
-    # Consider as heading if larger font or (same size and bold)
-    if font_size > (body_font + font_tolerance) or (
-        font_size >= (body_font - font_tolerance) and is_bold
-    ):
+    # Check if text has different color from body text (treat as bold-like emphasis)
+    has_different_color = text_color != body_color
+    
+    # Consider as heading if:
+    # 1. Larger font size, OR
+    # 2. Same size and bold, OR
+    # 3. Same size and different color (new condition)
+    if (font_size > (body_font + font_tolerance) or 
+        (font_size >= (body_font - font_tolerance) and is_bold) or
+        (font_size >= (body_font - font_tolerance) and has_different_color)):
         return True
     
     return False
@@ -358,7 +218,7 @@ def main():
             continue
         path = os.path.join(INPUT_DIR, fname)
         print(f"→ scanning {fname}")
-        blocks, body_font = extract_blocks(path)
+        blocks, body_font, body_color = extract_blocks(path)
 
         document_headings = []
         title = "Unknown Document"
@@ -366,6 +226,7 @@ def main():
         for b in blocks:
             fs = b["font_size"]
             bold = b["is_bold"]
+            text_color = b["text_color"]
             length = b["char_length"]
             txt = b["text"]
 
@@ -374,7 +235,7 @@ def main():
                 continue
 
             # Apply comprehensive heading detection
-            if not is_likely_heading(txt, fs, bold, body_font):
+            if not is_likely_heading(txt, fs, bold, text_color, body_font, body_color):
                 continue
 
             # Determine heading level
@@ -386,6 +247,10 @@ def main():
                     title = txt
                 elif title == "Unknown Document":
                     title = txt
+
+            # Check if text has different color and treat as bold
+            has_different_color = text_color != body_color
+            effective_bold = bold or has_different_color
 
             heading_entry = {
                 "level": level,
@@ -399,7 +264,7 @@ def main():
                 "page": b["page"],
                 "text": txt,
                 "font_size": fs,
-                "is_bold": bold,
+                "is_bold": int(effective_bold),  # Use effective bold (including color difference)
                 "x": b["x"],
                 "y": b["y"],
                 "char_length": length,
