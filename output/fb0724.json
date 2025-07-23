@@ -1,14 +1,9 @@
 {
-  "title": "IAB-FORSCHUNGSBERICHT",
+  "title": "Impressum",
   "outline": [
     {
       "level": "H1",
       "text": "IAB-FORSCHUNGSBERICHT",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Aktuelle Ergebnisse aus der Projektarbeit des Instituts für Arbeitsmarkt- und Berufsforschung",
       "page": 1
     },
     {
@@ -19,11 +14,6 @@
     {
       "level": "H1",
       "text": "der Wertschöpfungskette Wasserstoff: Szenario-v2.1",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Schur, Johanna Zenk",
       "page": 1
     },
     {
@@ -49,41 +39,6 @@
     {
       "level": "H1",
       "text": "Szenario-v2.1",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Linus Ronsiek (GWS)",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Christian Schneemann (IAB)",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Anke Mönnig (GWS)",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "David Samray (BIBB)",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Jan Philipp Schroer (BIBB)",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Alexander Christian Schur (BIBB)",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Johanna Zenk (IAB)",
       "page": 2
     },
     {
@@ -122,21 +77,6 @@
       "page": 9
     },
     {
-      "level": "H2",
-      "text": "2.1 Das QuBe-Modellinstrumentarium",
-      "page": 9
-    },
-    {
-      "level": "H3",
-      "text": "IN terindustry FOR ecasting Ge rmany). Die darin enthaltenen Module werden simultan gelöst und",
-      "page": 9
-    },
-    {
-      "level": "H2",
-      "text": "2.2 Szenariotechnik",
-      "page": 10
-    },
-    {
       "level": "H3",
       "text": "Szenario. Neben der Fortschreibung vergangener Trends und Verhaltensweisen beinhaltet sie",
       "page": 11
@@ -145,76 +85,6 @@
       "level": "H2",
       "text": "2.3 Annahmen",
       "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "2.3.1",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "Übersicht",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "2.3.2",
-      "page": 13
-    },
-    {
-      "level": "H3",
-      "text": "Bedarf, Erzeugung und Import",
-      "page": 13
-    },
-    {
-      "level": "H3",
-      "text": "2.3.3",
-      "page": 14
-    },
-    {
-      "level": "H3",
-      "text": "Kosten",
-      "page": 14
-    },
-    {
-      "level": "H3",
-      "text": "2.3.4",
-      "page": 15
-    },
-    {
-      "level": "H3",
-      "text": "Infrastruktur",
-      "page": 15
-    },
-    {
-      "level": "H3",
-      "text": "2.3.5",
-      "page": 16
-    },
-    {
-      "level": "H3",
-      "text": "Technologieexporte",
-      "page": 16
-    },
-    {
-      "level": "H3",
-      "text": "2.3.6",
-      "page": 16
-    },
-    {
-      "level": "H3",
-      "text": "Synthetische Kraftstoffe",
-      "page": 16
-    },
-    {
-      "level": "H3",
-      "text": "2.3.7",
-      "page": 17
-    },
-    {
-      "level": "H3",
-      "text": "Weiterbildung",
-      "page": 17
     },
     {
       "level": "H1",
@@ -227,64 +97,39 @@
       "page": 18
     },
     {
-      "level": "H2",
-      "text": "3.2 Arbeitsmarkt",
-      "page": 19
+      "level": "H3",
+      "text": "Erwerbstätigen im Jahr 2030 und 2045",
+      "page": 23
     },
     {
       "level": "H3",
-      "text": "3.2.1",
-      "page": 19
-    },
-    {
-      "level": "H3",
-      "text": "Erwerbstätige und Erwerbspersonen",
-      "page": 19
-    },
-    {
-      "level": "H3",
-      "text": "3.2.2",
-      "page": 20
-    },
-    {
-      "level": "H3",
-      "text": "Arbeitsplatzaufbau und -abbau",
-      "page": 20
-    },
-    {
-      "level": "H3",
-      "text": "3.2.3",
-      "page": 21
-    },
-    {
-      "level": "H3",
-      "text": "Erwerbstätige nach Wirtschaftsbereichen",
-      "page": 21
-    },
-    {
-      "level": "H3",
-      "text": "3.2.4",
+      "text": "Erwerbstätigen im Jahr 2030 und 2045",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Erwerbstätige nach Berufsgruppen",
-      "page": 24
+      "text": "Erwerbstätigen im Jahr 2030 und 2045",
+      "page": 25
     },
     {
       "level": "H3",
-      "text": "3.2.5",
+      "text": "Erwerbstätigen im Jahr 2030 und 2045",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "Anforderungsniveaus",
-      "page": 26
+      "text": "2045, in Tsd. Personen und in Prozent",
+      "page": 27
     },
     {
       "level": "H1",
       "text": "Sensitivitätsanalyse",
       "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Tabelle 2: Überblick über die Sensitivitätsrechnung",
+      "page": 28
     },
     {
       "level": "H1",
@@ -295,556 +140,6 @@
       "level": "H1",
       "text": "Literatur",
       "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "wichtigste-in-kuerze.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "https://www.aemo.com.au/.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "energiewende.de/fileadmin/Projekte/2022/2022-12-10_Trans4Real/A-EW_301_LCOH_WEB.pdf.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "research/publications/specials/en/2023/april/2023-04-05-Industry.pdf.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "factsheet_06-23_chemie-_und_raffinerieindustrie_web.pdf.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmbf.de/bmbf/shareddocs/kurzmeldungen/de/wissenswertes-zu-gruenem-",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "wasserstoff.html.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "Bekanntmachung-",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "Wasserstoff.html#:~:text=Derivate%20im%20Sinne%20dieser%20Richtlinie,%2C%20Ottokraftst",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "off%2C%20Diesel%20und%20Kerosin.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "https://bmdv.bund.de/SharedDocs/DE/Anlage/LF/ptl-roadmap.pdf?__blob=publicationFile.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "wasserstoffstrategie.pdf?__blob=publicationFile&v=20.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2024/02/20240226-habeck-will-den-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "einsatz-von-ccs-ermoeglichen.html.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2024/02/20240216-habeck-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "wegweisender-beschluss-fuer-energieintensive-industrie.html?view=renderNewsletterHtml.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmbf.de/SharedDocs/Downloads/de/2023/230726-fortschreibung-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "nws.pdf?__blob=publicationFile&v=1.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Navigation/DE/Wasserstoff/Internationale-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "Wasserstoffzusammenarbeit/internationale-wasserstoffzusammenarbeit.html.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2023/08/20230801-rahmen-fuer-die-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "kraftwerksstrategie-steht.html.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2023/06/20230601-bundesregierung-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "und-eu-kommission-machen-h2global-zum-europaeischen-wasserstoff-projekt.html.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Redaktion/DE/Publikationen/Industrie/20220913-effiziente-nutzung-von-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "wasserstoff-in-der-glas-keramik-papier-und-ne-metallindustrie.pdf?__blob=publicationFile&v=4.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Redaktion/DE/Wasserstoff/Downloads/fortschrittsbericht-der-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "nws.pdf?__blob=publicationFile&v=1.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/11/20221117-habeck-erstes-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "importterminal-fur-grunen-ammoniak-kommt-nach-hamburg-wegmarke-fur-hochlauf-der-",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "wasserstoffwirtschaft.html.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "energiewende.de/EWD/Redaktion/Newsletter/2022/01/Meldung/direkt-erklaert.html.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "https://www.dvgw.de/medien/dvgw/forschung/berichte/g201926-abschlussbericht-",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "transformation-ugs.pdf.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "Statistiken/Fachkraeftebedarf/Engpassanalyse-Nav.html.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bundesnetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/_svg/Gaspreise",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "/Gaspreise.html.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "https://www.smard.de.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "de/aktuelles/kraftwerksstrategie-2257868.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bundesregierung.de/breg-de/aktuelles/pressemitteilungen/chemie-",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "spitzengespraech-am-27-september-2023-2226128.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "https://www.vci.de/vci/downloads-vci/publikation/broschueren-und-faltblaetter/final-c4c-",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "broschure-langfassung-es.pdf.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "https://dserver.bundestag.de/btd/20/087/2008718.pdf.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "https://seffaflik.epias.com.tr/.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "kommission-legt-definition-von-erneuerbarem-wasserstoff-vor-2023-02-13_de.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "gas.de/wp-content/uploads/2023/11/2023_11_15_Entwurf_Antrag_Wasserstoff-",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "Kernnetz_final.pdf.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "Gas-2022-2032-Zwischenstand.pdf.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "https://langfristszenarien.de/enertile-explorer-de/.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "rest.fraunhofer.de/server/api/core/bitstreams/32b53493-fadc-4bb0-bc02-",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "0a8db0704160/content.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "saarlaendischen-wasserstoffwirtschaft.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "era-of-hydrogen-energy-suiso-frontier-built-by-japans-kawasaki-heavy-industries/.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "product/hydrogen-production-and-infrastructure-projects-database.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "10b13d840027/NetZeroby2050-ARoadmapfortheGlobalEnergySector_CORR.pdf.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "https://iea.blob.core.windows.net/assets/9e3a3493-b9a6-4b7d-b499-",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "7ca48e357561/The_Future_of_Hydrogen.pdf.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "https://www.iexindia.com/marketdata/areaprice.aspx.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bibb.de/dienst/publikationen/de/download/18168.",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "https://epub.wupperinst.org/frontdoor/deliver/index/docId/8344/file/8344_Wasserstoffkosten.p",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "koeln.de/de/tools/globales-ptx-produktions-und-importkostentool/.",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bibb.de/dokumente/pdf/BWP-2023-H4-47f.pdf.",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "https://evaluationdata.pwc.de/kapitalmarktdaten-versorgungsbetriebe/.",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "datenportal.de.",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "https://www.consilium.europa.eu/de/press/press-releases/2023/07/25/alternative-fuels-",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "europe/.",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "https://www.consilium.europa.eu/de/press/press-releases/2023/07/25/fueleu-maritime-",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "initiative-council-adopts-new-law-to-decarbonise-the-maritime-sector/.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "https://www.consilium.europa.eu/de/press/press-releases/2023/10/09/refueleu-aviation-",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "initiative-council-adopts-new-law-to-decarbonise-the-aviation-sector/.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "rest.fraunhofer.de/server/api/core/bitstreams/2472549c-0b7e-4ec8-97e7-5e26a7f4cbd2/content.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "entwicklung/projektvorhaben/projektstandort-brunsbuettel/.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "erfurt.de/fileadmin/Dokumente/GTI/Dokumente_GE/forschung/lenz/fp-2022-",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "wasserstoffnachfragepotentiale.pdf.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "https://res.bibb.de/vet-repository_781481.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "seyda-beate-placke-weiterbildung-auf-wachstumskurs-493427.html.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "content/uploads/2020/09/indwede-studie_v04.1.pdf.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf.",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "zukunft.de/fileadmin/user_upload/Publikationen/PDFs/Analyse_Wasserstoff_neu.pdf.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "https://www.statista.com/statistics/1029737/chile-electricity-average-market-",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "price/#:~:text=Chile%E2%80%99s%20electricity%20market%20price%20has%20been%20on%2",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "0an,on%20a%20four-month%20average%20ending%20in%20this%20month%29.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "https://www.transnetbw.de/_Resources/Persistent/b/d/7/9/bd793c1560aac21d8ee3f2ae3a0be4",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "9fe4c0e54c/Enervis-Studie%20Anreizwirkung%20Neubau-Vorschuss%2024.03.2023.pdf.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "https://www.umweltbundesamt.de/sites/default/files/medien/479/dokumente/uba_kurzeinsch",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "aetzung_von_ammoniak_als_energietraeger_und_transportmedium_fuer_wasserstoff.pdf.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_2020_68",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "_systemvergleich_speicherbarer_energietraeger_aus_erneuerbaren_energien.pdf.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "https://www.uniper.energy/de/loesungen/energy-transformation-hubs/energy-transformation-",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "hub-nordwest/green-wilhelmshaven.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "1.pdf.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "bayern.de/Redaktion/Frei-zugaengliche-Medien/Abteilungen-",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "GS/Wirtschaftspolitik/2023/Downloads/vbw-Studie_Internationaler-",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "Energiepreisvergleich_Oktober-2023.pdf.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "zugaengliche-Medien/Abteilungen-",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "GS/Wirtschaftspolitik/2023/Downloads/vbw_Strompreisprognose_Juli-2023-3.pdf.",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "nachrichten.com/technik/werkstoffe/direktreduktion-diese-anlagentechnik-wird-bei-",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "thyssenkrupp-und-co-den-hochofen-abloesen/.",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "https://www.iab-forum.de/gruene-energie-ist-die-zukunft-der-deutschen-industrie/.",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "https://www.welt.de/regionales/hamburg/article242186455/Erneuerbare-Energien-Hamburg-",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "bekommt-erstes-Terminal-fuer-gruenen-Ammoniak.html.",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "2.0-Handlungsbedarf-aus-Sicht-der-Stahlindustrie.pdf.",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "https://res.bibb.de/vet-repository_780958.",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "https://doi.org/10.3278/9783763973712.",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "https://www.bmas.de/SharedDocs/Downloads/DE/Publikationen/Forschungsberichte/fb631-",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "szenarien-ueber-die-erhoehung-des-arbeitskraeftepotenzials.pdf?__blob=publicationFile&v=1.",
-      "page": 40
     },
     {
       "level": "H1",
@@ -867,19 +162,14 @@
       "page": 41
     },
     {
-      "level": "H2",
-      "text": "A2 Inländische Wasserstofferzeugung",
-      "page": 42
-    },
-    {
-      "level": "H2",
-      "text": "A3 Umrüstungsinvestitionen",
-      "page": 42
-    },
-    {
-      "level": "H2",
-      "text": "A4 Wasserstoffgestehungskosten",
+      "level": "H3",
+      "text": "Bereich",
       "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Variable",
+      "page": 44
     },
     {
       "level": "H2",
@@ -912,18 +202,28 @@
       "page": 47
     },
     {
-      "level": "H2",
-      "text": "A7 Technologieexport",
-      "page": 47
+      "level": "H3",
+      "text": "Bereich",
+      "page": 48
     },
     {
-      "level": "H2",
-      "text": "A8 Synthetische Kraftstoffe",
-      "page": 47
+      "level": "H3",
+      "text": "Tabelle A10:",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Annahme",
+      "page": 49
     },
     {
       "level": "H2",
       "text": "A9 Weiterbildung",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Tabelle A11:",
       "page": 49
     },
     {
@@ -963,17 +263,7 @@
     },
     {
       "level": "H3",
-      "text": "https://creativecommons.org/licenses/by-sa/4.0/deed.de",
-      "page": 52
-    },
-    {
-      "level": "H3",
       "text": "Bezugsmöglichkeit dieses Dokuments",
-      "page": 52
-    },
-    {
-      "level": "H3",
-      "text": "https://doku.iab.de/forschungsbericht/2024/fb0724.pdf",
       "page": 52
     },
     {
@@ -983,17 +273,7 @@
     },
     {
       "level": "H3",
-      "text": "https://iab.de/publikationen/iab-publikationsreihen/iab-forschungsbericht/",
-      "page": 52
-    },
-    {
-      "level": "H3",
       "text": "Website",
-      "page": 52
-    },
-    {
-      "level": "H3",
-      "text": "https://iab.de",
       "page": 52
     },
     {
@@ -1003,7 +283,7 @@
     },
     {
       "level": "H3",
-      "text": "10.48720/IAB.FB.2407",
+      "text": "DOI",
       "page": 52
     },
     {

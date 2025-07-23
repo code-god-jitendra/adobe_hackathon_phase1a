@@ -1,14 +1,9 @@
 {
-  "title": "Deep Learning on Graphs: A Survey",
+  "title": "arXiv:1812.04202v3 [cs.LG] 13 Mar 2020",
   "outline": [
     {
       "level": "H1",
       "text": "Deep Learning on Graphs: A Survey",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Ziwei Zhang, Peng Cui and Wenwu Zhu, Fellow, IEEE",
       "page": 1
     },
     {
@@ -33,8 +28,18 @@
     },
     {
       "level": "H3",
+      "text": "3.1",
+      "page": 3
+    },
+    {
+      "level": "H3",
       "text": "Node-level RNNs",
       "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3.2",
+      "page": 4
     },
     {
       "level": "H3",
@@ -48,13 +53,28 @@
     },
     {
       "level": "H3",
+      "text": "4.1",
+      "page": 4
+    },
+    {
+      "level": "H3",
       "text": "Convolution Operations",
       "page": 4
     },
     {
       "level": "H3",
+      "text": "4.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
       "text": "Readout Operations",
       "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "4.3",
+      "page": 9
     },
     {
       "level": "H3",
@@ -68,12 +88,27 @@
     },
     {
       "level": "H3",
+      "text": "5.1",
+      "page": 11
+    },
+    {
+      "level": "H3",
       "text": "Autoencoders",
       "page": 11
     },
     {
       "level": "H3",
+      "text": "5.2",
+      "page": 13
+    },
+    {
+      "level": "H3",
       "text": "Variational Autoencoders",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "5.3",
       "page": 13
     },
     {
@@ -93,8 +128,18 @@
     },
     {
       "level": "H3",
+      "text": "7.1",
+      "page": 14
+    },
+    {
+      "level": "H3",
       "text": "Adversarial Training",
       "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "7.2",
+      "page": 15
     },
     {
       "level": "H3",
@@ -108,7 +153,17 @@
     },
     {
       "level": "H3",
+      "text": "8.1",
+      "page": 16
+    },
+    {
+      "level": "H3",
       "text": "Applications",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "8.2",
       "page": 16
     },
     {
@@ -118,7 +173,17 @@
     },
     {
       "level": "H3",
+      "text": "8.3",
+      "page": 16
+    },
+    {
+      "level": "H3",
       "text": "Future Directions",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "8.4",
       "page": 16
     },
     {

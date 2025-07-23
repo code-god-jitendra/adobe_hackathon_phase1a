@@ -1,0 +1,759 @@
+﻿document,page,text,font_size,is_bold,x,y,char_length,body_font_size,heading_level,heading
+1812.04202v3.pdf,1,Deep Learning on Graphs: A Survey,24.0,0,112,74,33,9.5,H1,1
+1812.04202v3.pdf,1,"Ziwei Zhang, Peng Cui and Wenwu Zhu, Fellow, IEEE",11.0,0,174,103,49,9.5,H3,1
+1812.04202v3.pdf,1,INTRODUCTION,11.0,1,65,294,12,9.5,H3,1
+1812.04202v3.pdf,1,arXiv:1812.04202v3 [cs.LG] 13 Mar 2020,20.0,1,32,560,38,9.5,H1,1
+1812.04202v3.pdf,2,NOTATIONS AND PRELIMINARIES,11.0,1,329,351,27,9.5,H3,1
+1812.04202v3.pdf,3,GRAPH RECURRENT NEURAL NETWORKS,11.0,1,65,621,31,9.5,H3,1
+1812.04202v3.pdf,3,Node-level RNNs,9.5,1,334,51,15,9.5,H3,1
+1812.04202v3.pdf,4,Graph-level RNNs,9.5,1,70,319,16,9.5,H3,1
+1812.04202v3.pdf,4,GRAPH CONVOLUTIONAL NETWORKS,11.0,1,65,706,28,9.5,H3,1
+1812.04202v3.pdf,4,Convolution Operations,9.5,1,334,428,22,9.5,H3,1
+1812.04202v3.pdf,8,Readout Operations,9.5,1,70,252,18,9.5,H3,1
+1812.04202v3.pdf,9,Improvements and Discussions,9.5,1,70,450,28,9.5,H3,1
+1812.04202v3.pdf,11,GRAPH AUTOENCODERS,11.0,1,329,331,18,9.5,H3,1
+1812.04202v3.pdf,11,Autoencoders,9.5,1,334,438,12,9.5,H3,1
+1812.04202v3.pdf,13,Variational Autoencoders,9.5,1,70,241,24,9.5,H3,1
+1812.04202v3.pdf,13,Improvements and Discussions,9.5,1,334,51,28,9.5,H3,1
+1812.04202v3.pdf,14,GRAPH REINFORCEMENT LEARNING,11.0,1,65,362,28,9.5,H3,1
+1812.04202v3.pdf,14,GRAPH ADVERSARIAL METHODS,11.0,1,329,559,25,9.5,H3,1
+1812.04202v3.pdf,14,Adversarial Training,9.5,1,334,648,20,9.5,H3,1
+1812.04202v3.pdf,15,Adversarial Attacks,9.5,1,70,718,19,9.5,H3,1
+1812.04202v3.pdf,16,DISCUSSIONS AND CONCLUSION,11.0,1,65,51,26,9.5,H3,1
+1812.04202v3.pdf,16,Applications,9.5,1,70,128,12,9.5,H3,1
+1812.04202v3.pdf,16,Implementations,9.5,1,70,492,15,9.5,H3,1
+1812.04202v3.pdf,16,Future Directions,9.5,1,70,615,17,9.5,H3,1
+1812.04202v3.pdf,16,Summary,9.5,1,334,578,7,9.5,H3,1
+1812.04202v3.pdf,16,ACKNOWLEDGEMENT,11.0,1,312,682,15,9.5,H3,1
+1812.04202v3.pdf,17,REFERENCES,11.0,1,48,243,10,9.5,H3,1
+1812.04202v3.pdf,21,APPENDIX A,11.0,1,48,51,10,9.5,H3,1
+1812.04202v3.pdf,21,SOURCE CODES,11.0,1,48,65,12,9.5,H3,1
+1812.04202v3.pdf,21,APPENDIX B,11.0,1,48,172,10,9.5,H3,1
+1812.04202v3.pdf,21,APPLICABILITY FOR COMMON TASKS,11.0,1,48,186,30,9.5,H3,1
+1812.04202v3.pdf,21,APPENDIX C,11.0,1,48,294,10,9.5,H3,1
+1812.04202v3.pdf,21,NODE CLASSIFICATION RESULTS ON BENCHMARK,11.0,1,48,307,40,9.5,H3,1
+1812.04202v3.pdf,21,DATASETS,11.0,1,48,321,8,9.5,H3,1
+1812.04202v3.pdf,21,APPENDIX D,11.0,1,312,335,10,9.5,H3,1
+1812.04202v3.pdf,21,AN EXAMPLE OF GRAPH SIGNALS,11.0,1,312,349,27,9.5,H3,1
+1812.04202v3.pdf,23,APPENDIX E,11.0,1,48,501,10,9.5,H3,1
+1812.04202v3.pdf,23,TIME COMPLEXITY,11.0,1,48,515,15,9.5,H3,1
+19t001.pdf,1,RIETI Technical Paper Series 19-T-001,18.0,1,255,242,37,9.921699523925781,H1,1
+19t001.pdf,1,市町村合併を考慮した市区町村パネルデータの作成,20.0,1,67,346,23,9.921699523925781,H1,1
+19t001.pdf,1,（改訂版）,20.0,1,247,374,5,9.921699523925781,H1,1
+19t001.pdf,1,近藤 恵介,14.0,1,266,449,5,9.921699523925781,H2,1
+19t001.pdf,1,経済産業研究所,12.0,1,254,467,7,9.921699523925781,H2,1
+19t001.pdf,2,RIETI Technical Paper Series 19-T-001,10.559999465942383,1,340,98,37,9.921699523925781,H3,1
+19t001.pdf,2,改訂：2022 年４⽉,10.45595645904541,1,436,114,11,9.921699523925781,H3,1
+19t001.pdf,2,初版：2019 年3 ⽉,10.45595645904541,1,436,130,12,9.921699523925781,H3,1
+19t001.pdf,2,市町村合併を考慮した市区町村パネルデータの作成 *,15.921571731567383,1,111,176,25,9.921699523925781,H1,1
+19t001.pdf,2,近藤恵介 †,11.039999961853027,1,272,205,6,9.921699523925781,H3,1
+19t001.pdf,2,（経済産業研究所）,11.039999961853027,1,248,221,9,9.921699523925781,H3,1
+19t001.pdf,2,本稿では，1980 年から2020 年までの市区町村単位のパネルデータの作成⽅法につい,10.079999923706055,1,112,277,43,9.921699523925781,H3,1
+19t001.pdf,2,て説明する．平成の⼤合併として知られているように，2000 年代中頃には全国的に市町,10.079999923706055,1,102,294,42,9.921699523925781,H3,1
+19t001.pdf,2,村合併が⾏われ，市区町村数は約半数にまで減少している．それに伴い，⻑期的な市区,10.079999923706055,1,102,310,39,9.921699523925781,H3,1
+19t001.pdf,2,町村パネルデータを作成するには⾮常に煩雑な作業が必要となっているのが現状である．,10.079999923706055,1,102,327,40,9.921699523925781,H3,1
+19t001.pdf,2,このような問題を解決するため，1980 年から2020 年までの市町村合併を考慮した市区,10.079999923706055,1,102,344,44,9.921699523925781,H3,1
+19t001.pdf,2,町村コードのコンバータ作成⽅法について解説するとともに，作成したコンバータを⼀,10.079999923706055,1,102,361,39,9.921699523925781,H3,1
+19t001.pdf,2,般に利⽤できるように公開する．,10.079999923706055,1,102,378,15,9.921699523925781,H3,1
+19t001.pdf,2,JEL classification: Y10,10.079999923706055,1,101,406,23,9.921699523925781,H3,1
+19t001.pdf,2,Keywords: 市区町村パネルデータ，市町村合併,10.079999923706055,1,101,423,26,9.921699523925781,H3,1
+19t001.pdf,2,論⽂に述べられている⾒解は執筆者個⼈の責任で発表するものであり，所属する組織及び,10.079999923706055,1,93,572,40,9.921699523925781,H3,1
+19t001.pdf,2,（独）経済産業研究所としての⾒解を⽰すものではありません．,10.079999923706055,1,83,589,29,9.921699523925781,H3,1
+19t001.pdf,2,Online Appendix として全都道府県に関する1980 年の⾏政区域と2015 年の⾏政区域の⽐較を地図上で⽰してい,9.119999885559082,1,71,686,63,9.921699523925781,H3,1
+19t001.pdf,2,る．本稿で使⽤している地図データは，地理情報分析⽀援システムMANDARA における「⽇本市町村」であ,9.119999885559082,1,71,699,51,9.921699523925781,H3,1
+19t001.pdf,2,る．本稿で作成した市区町村コンバータは以下のURL より⼊⼿可能である．,9.119999885559082,1,71,712,36,9.921699523925781,H3,1
+19t001.pdf,3,はじめに,14.287199974060059,0,116,124,4,9.921699523925781,H2,1
+19t001.pdf,5,コンバータ,10.947199821472168,1,153,235,5,9.921699523925781,H3,1
+19t001.pdf,5,1980年時点の市区町村データ,10.947199821472168,1,108,104,15,9.921699523925781,H3,1
+19t001.pdf,5,2015年時点の地理単位で集計した,10.947199821472168,1,328,106,17,9.921699523925781,H3,1
+19t001.pdf,5,1980年時点の市区町村データ,10.947199821472168,1,339,119,15,9.921699523925781,H3,1
+19t001.pdf,5,2015年時点の市区町村データ,10.947199821472168,1,339,240,15,9.921699523925781,H3,1
+19t001.pdf,5,市区町村コードの変更とコンバータの概念,14.287199974060059,0,116,594,19,9.921699523925781,H2,1
+19t001.pdf,6,都道府県コード13：東京都,9.551199913024902,1,291,125,13,9.921699523925781,H3,1
+19t001.pdf,6,市区町村コード101：千代田区,9.551199913024902,1,291,144,15,9.921699523925781,H3,1
+19t001.pdf,8,市区町村コンバータの作成方法,14.287199974060059,0,116,569,14,9.921699523925781,H2,1
+19t001.pdf,11,市区町村コンバータによる市区町村パネルデータの作成方法,14.287199974060059,0,116,492,27,9.921699523925781,H2,1
+19t001.pdf,13,市区町村コンバータの正確性の検証,14.287199974060059,0,116,433,16,9.921699523925781,H2,1
+19t001.pdf,16,参考文献,14.287199974060059,0,93,327,4,9.921699523925781,H2,1
+2005-paper--01.pdf,1,空污防制,15.0,0,80,115,4,10.020000457763672,H2,1
+2005-paper--01.pdf,1,光電業沸石轉輪焚化系統效率提升實,21.0,0,87,202,16,10.020000457763672,H1,1
+2005-paper--01.pdf,1,廠改善案例,21.0,0,196,229,5,10.020000457763672,H1,1
+2005-paper--01.pdf,2,54 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,2,一、前 言,16.020000457763672,0,199,129,5,10.020000457763672,H1,1
+2005-paper--01.pdf,2,二、製程概況,16.020000457763672,0,199,434,6,10.020000457763672,H1,1
+2005-paper--01.pdf,2,三、 VOCs 產生源及廢氣特性,16.020000457763672,0,142,645,16,10.020000457763672,H1,1
+2005-paper--01.pdf,3,四、 VOCs 廢氣處理現況,16.020000457763672,0,159,562,14,10.020000457763672,H1,1
+2005-paper--01.pdf,4,56 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,4,五、系統改善過程,16.020000457763672,0,182,560,8,10.020000457763672,H1,1
+2005-paper--01.pdf,6,58 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,8,60 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,10,62 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,12,64 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,14,66 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,16,68 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,18,70 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,20,72 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,22,74 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,23,六、結 論,16.020000457763672,0,199,337,5,10.020000457763672,H1,1
+2005-paper--01.pdf,24,76 光電業沸石轉輪焚化系統效率提升實廠改善案例,10.020000457763672,1,58,62,24,10.020000457763672,H3,1
+2005-paper--01.pdf,24,七、參考文獻,16.020000457763672,0,199,141,6,10.020000457763672,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,1,BEGINNING JAPANESE FOR,28.079999923706055,1,156,98,22,12.0,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,1,PROFESSIONALS: BOOK 1,28.079999923706055,1,164,132,21,12.0,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,1,Emiko Konomi,24.0,1,229,617,12,12.0,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,2,Beginning Japanese for Professionals:,25.920000076293945,0,93,270,37,12.0,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,2,Book 1,25.920000076293945,1,263,330,6,12.0,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,2,Emiko Konomi,19.920000076293945,0,241,414,12,12.0,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,2,Portland State University,19.920000076293945,0,195,520,25,12.0,H1,1
+Beginning Japanese for Professionals_ Book 1.pdf,3,Creative Commons Attribution-NonCommercial 4.0 International License,12.0,1,114,345,68,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,3,Under the following terms :,12.0,1,83,471,27,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,3,Cover photo: courtesy of Katharine Ross,12.0,1,202,672,39,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,Accessibility Statement,16.079999923706055,1,72,87,23,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,Accessibility of Beginning Japanese I,16.079999923706055,1,72,265,37,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,CC BY 4.0.,12.0,1,72,333,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,Multiple File Formats Available,13.920000076293945,1,72,387,31,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,"download at Portland State University’s institutional repository, PDXScholar.",12.0,1,108,449,77,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,Organization of content,13.920000076293945,1,72,529,23,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,Images,13.920000076293945,1,72,600,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,4,Tables,13.920000076293945,1,72,672,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,5,Multimedia,13.920000076293945,1,72,106,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,5,Font Size and formatting,13.920000076293945,1,72,178,24,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,5,Known Issues/Potential barriers to accessibility,13.920000076293945,1,72,281,48,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,5,Hints,12.960000038146973,1,72,310,5,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,5,Lists and Tagging in PDF,12.960000038146973,1,71,540,24,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,5,Appendix A: Checklist for Accessibility found in Accessibility Toolkit - 2nd Edition by,11.039999961853027,1,71,623,87,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,5,License.,11.039999961853027,1,285,717,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,6,About the Book,16.079999923706055,1,72,87,14,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,6,About the Author,16.079999923706055,1,72,275,16,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,6,Acknowledgments,16.079999923706055,1,72,471,15,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,7,Table of Contents,16.079999923706055,1,245,95,17,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,9,Before We Begin,13.920000076293945,1,255,92,15,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,9,For whom is this textbook designed?,12.960000038146973,1,72,129,35,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,9,What kind of things can you do in Japanese after finishing this book?,12.960000038146973,1,72,384,69,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,10,How is this textbook structured?,12.960000038146973,1,72,92,32,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,10,How is reading and writing handled in this textbook?,12.960000038146973,1,72,194,52,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,10,How is Japanese pronunciation presented in this textbook?,12.960000038146973,1,72,284,57,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,10,How should you use this textbook?,12.960000038146973,1,72,608,33,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,11,Last but not least…,12.960000038146973,1,72,450,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,11,Have fun!,12.0,1,119,579,9,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,12,Lesson 0,13.920000076293945,1,280,92,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,12,Instructor’s Directions,12.960000038146973,1,233,165,23,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,12,Greetings and Ritual Expressions,12.960000038146973,1,204,435,32,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,12,Greetings,12.0,1,71,591,9,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,13,"Offering and Accepting, Thanking",12.0,1,72,152,32,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,13,Addressing Someone,12.0,1,72,447,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,14,Apologizing,12.0,1,72,83,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,14,Starting and Ending Eating/Drinking,12.0,1,72,326,35,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,14,Requesting,12.0,1,72,592,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,15,Entering a Room (Knock on the door TWICE),12.0,1,72,137,41,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,15,Leaving and Coming Back to Home /Office,12.0,1,71,304,39,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,15,Meeting People for the First Time,12.0,1,72,575,33,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,16,Taking Leave,12.0,1,72,339,12,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,16,Parting,12.0,1,72,546,7,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,16,Retiring at Night,12.0,1,72,666,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,17,Notes on Pronunciation,12.960000038146973,1,240,125,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,17,Syllables,12.0,1,72,153,9,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,17,"• a vowel (a, i, u, e, o)",12.0,1,90,206,25,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,17,"• a consonant alone (n, t, s, k, p)",12.0,1,90,259,35,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,18,Long Vowels,12.0,1,72,83,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,18,Long Consonants,12.0,1,72,192,15,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,18,Pitch Accent,12.0,1,72,383,12,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,19,Drills & Exercises,12.960000038146973,1,246,469,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,19,"A. Listen to the audio. Following the first two model exchanges, respond to each cue.",12.0,1,72,497,85,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,19,B. Say it in Japanese.,12.0,1,72,679,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,21,Review Questions,12.960000038146973,1,256,275,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,21,Drill Tape Script,12.960000038146973,1,258,543,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,22,Lesson 1: New to the Office,13.920000076293945,1,224,92,27,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,22,Dialogue 1,12.960000038146973,1,267,116,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,22,Vocabulary,12.0,1,267,346,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,23,Grammar Notes,12.0,1,264,83,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,23,"1-1-1 Verbs, Non-Past, Formal, Affirmative and Negative",12.0,1,72,110,55,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,23,1-1-2 Hai and Iie : Affirming and Negating,12.0,1,72,316,42,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,24,Drills and Exercises,12.0,1,254,381,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,24,"A. Listen to the audio. Following the first two model exchanges, respond to each cue.",12.0,1,71,409,85,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,25,D. Say it in Japanese.,12.0,1,72,83,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,25,E. Act in Japanese.,12.0,1,72,217,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,25,Dialogue 2,12.960000038146973,1,265,311,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,25,Vocabulary,12.0,1,267,517,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,26,Grammar Notes,12.0,1,264,206,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,27,1-2-3 Clause Particle Kedo,12.0,1,71,166,26,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,27,1-2-4 Particle Wa indicating Contrast,12.0,1,71,438,37,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,27,1-2-5 Particle Mo indicating Addition,12.0,1,71,630,37,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,28,Drills and Exercises,12.0,1,254,124,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,28,B. Say it in Japanese,12.0,1,72,384,21,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,28,C. Act in Japanese.,12.0,1,72,561,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,29,Dialogue 3,12.960000038146973,1,265,84,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,29,Vocabulary,12.0,1,265,358,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,30,Grammar Notes,12.0,1,264,83,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,30,1-3-1 Negative Questions as Suggestions,12.0,1,72,110,39,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,30,1-3-2 Chotto : Impact Softener,12.0,1,72,330,30,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,30,1-3-3 Aizuchi : How to be a Good Listener,12.0,1,71,632,41,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,31,1-3-4 Personal References,12.0,1,71,152,25,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,31,1-3-5 Sentence Particle Yo Indicating New Information,12.0,1,71,495,53,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,32,Drills and Exercises,12.0,1,254,83,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,32,C. Say it in Japanese.,12.0,1,72,328,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,32,D. Act in Japanese.,12.0,1,72,589,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,33,Dialogue 4,12.960000038146973,1,265,84,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,33,Vocabulary,12.0,1,265,304,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,33,Grammar Notes,12.0,1,264,613,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,33,1-4-1 Verbs in the Past Form,12.0,1,71,641,28,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,34,Affirmative,12.0,1,288,112,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,34,Negative,12.0,1,460,112,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,34,Non-past,12.0,1,131,153,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,34,Past,12.0,1,143,194,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,34,1-4-2 Compound Verbs,12.0,1,72,242,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,34,Drills and Exercises,12.0,1,254,392,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,34,C. Say it in Japanese.,12.0,1,72,652,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,35,D. Act in Japanese.,12.0,1,72,152,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,35,Review,12.960000038146973,1,285,281,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,35,Grammar Review,12.0,1,259,309,14,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,35,Practical Application,12.0,1,251,628,21,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,36,Drill Tape Script,12.960000038146973,1,258,539,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,39,Lesson 2: Meeting People,13.920000076293945,1,229,92,24,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,39,Dialogue 1,12.960000038146973,1,267,116,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,39,Vocabulary,12.0,1,267,502,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,40,Clock Time,12.0,1,267,287,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,40,Grammar Notes,12.0,1,264,560,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,41,2-1-2 Clock Time,12.0,1,72,431,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,41,2-1-3 Hesitation Noises: Anou and Etto,12.0,1,72,526,38,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,42,Drills and Exercises,12.0,1,254,143,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,42,B. Say it in Japanese.,12.0,1,72,348,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,42,C. Act in Japanese.,12.0,1,71,498,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,43,Dialogue 2,12.960000038146973,1,265,84,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,44,Vocabulary,12.0,1,267,87,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,45,Country & Nationality (add – jin to the country name),12.0,1,72,87,53,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,45,Subjects in Business School,12.0,1,72,356,27,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,45,Academic Disciplines,12.0,1,72,495,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,46,Grammar Notes,12.0,1,264,446,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,46,2-2-1 Noun no Noun,12.0,1,72,474,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,47,2-2-2 Loan Words,12.0,1,71,176,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,47,2-2-3 Introductions and Exchange of Business Cards,12.0,1,72,408,50,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,48,Drills and Exercises,12.0,1,254,83,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,48,C. Say it in Japanese.,12.0,1,81,300,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,48,D. Act in Japanese.,12.0,1,81,437,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,49,Dialogue 3,12.960000038146973,1,267,84,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,49,Vocabulary,12.0,1,267,564,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,50,Languages (Add – go to the country name. A few exceptions),12.0,1,96,314,58,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,50,Grammar Notes,12.0,1,264,524,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,50,2-3-1 Echo Questions,12.0,1,71,552,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,51,Drills and Exercises,12.0,1,254,573,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,52,C. Say it in Japanese.,12.0,1,81,178,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,52,D. Act in Japanese.,12.0,1,81,300,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,52,Dialogue 4,12.960000038146973,1,267,469,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,53,Vocabulary,12.0,1,267,83,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,53,Days of the Week,12.0,1,71,516,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,53,Youbi,12.0,1,179,516,5,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,53,Grammar Notes,12.0,1,264,655,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,53,2-4-1 Days of the Week,12.0,1,71,683,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,54,2-4-2 Noun to Noun,12.0,1,72,247,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,54,"X deshita, X ja nakatta desu",12.0,1,252,508,28,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,54,Affirmative,12.0,1,158,601,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,54,Negative,12.0,1,336,601,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,54,Non-past Nihongo desu.,12.0,1,101,632,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,54,Past,12.0,1,101,678,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,55,Drills and Exercises,12.0,1,254,179,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,55,G. Say it in Japanese.,12.0,1,81,431,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,56,H. Act in Japanese.,12.0,1,81,235,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,56,Review,12.960000038146973,1,285,410,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,56,Grammar Review,12.0,1,259,438,14,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,57,Practical Applications,12.0,1,249,128,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,57,Part A,12.0,1,72,156,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,58,Part B,12.0,1,72,83,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,59,Drill Tape Scripts,12.960000038146973,1,256,84,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,61,Lesson 3: Settling Down,13.920000076293945,1,233,92,23,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,61,Dialogue 1,12.960000038146973,1,267,116,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,61,Vocabulary,12.0,1,267,347,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Grammar Notes,12.0,1,264,83,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,3-1-1 Adjective Sentences,12.0,1,72,110,25,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Non-past – Affirmative,12.0,1,216,493,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Non-Past – Negative,12.0,1,401,493,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Verb Sentence,12.0,1,88,546,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Noun,12.0,1,118,593,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Sentence,12.0,1,109,605,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Adjective,12.0,1,103,646,9,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,62,Sentence,12.0,1,104,659,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,63,Past - Affirmative,12.0,1,114,122,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,63,Negative,12.0,1,275,128,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,63,Past - Affirmative,12.0,1,420,122,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,63,Verb Sentence,12.0,1,114,174,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,63,Noun,12.0,1,139,219,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,63,Sentence,12.0,1,125,231,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,63,Adjective Sentence,12.0,1,105,277,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,3-1-3 arimasu ‘there is X’,12.0,1,71,191,26,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Affirmative,12.0,1,268,470,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Non-past,12.0,1,279,483,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Negative –,12.0,1,425,470,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Non-past,12.0,1,429,483,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Verb Sentence,12.0,1,112,529,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Noun,12.0,1,141,571,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Sentence,12.0,1,132,583,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,64,Adjective Sentence,12.0,1,102,625,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,Affirmative-Past,12.0,1,222,139,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,Negative-Past,12.0,1,391,139,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,Verb Sentence,12.0,1,102,184,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,Noun,12.0,1,125,233,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,Sentence,12.0,1,116,244,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,Adjective Sentence,12.0,1,90,293,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,Drills and Exercises,12.0,1,254,414,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,A. Listen to the audio,12.0,1,76,441,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,65,". Following the first two model exchanges, respond to each cue.",12.0,1,207,441,63,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,66,E. Say it in Japanese.,12.0,1,72,381,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,66,F. Act in Japanese with a partner.,12.0,1,72,515,34,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,67,Dialogue 2,13.920000076293945,1,265,84,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,67,Vocabulary,12.0,1,267,353,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,67,Grammar Notes,12.0,1,264,656,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,67,"3-2-1 Numbers and Classifiers (~ en, ~ doru, ~ ban)",12.0,1,72,684,51,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,69,3-2−2 Pronoun No,12.0,1,72,458,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,70,3-2-3 ka nee ‘I wonder’,12.0,1,71,138,23,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,70,Drills and Exercises,12.0,1,254,425,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,71,D. Say it in Japanese.,12.0,1,89,124,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,71,E. Act in Japanese with a partner.,12.0,1,89,404,34,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,72,Dialogue 3,12.960000038146973,1,267,84,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,72,Vocabulary,12.0,1,267,313,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,72,Grammar Notes,12.0,1,264,536,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,73,3-3-2 Adjective ~Ku Forms as Adverbs,12.0,1,72,124,36,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,73,Drills and Exercises,12.0,1,254,274,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,73,C. Say it in Japanese.,12.0,1,90,521,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,73,D. Act these roles in Japanese with a partner.,12.0,1,90,643,46,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,74,Dialogue 4,12.960000038146973,1,267,143,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,74,Vocabulary,12.0,1,267,416,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,75,Grammar Notes,12.0,1,264,83,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,75,"3-4-1 X toka Y, X ya Y",12.0,1,72,110,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,75,3-4-2 X mo Y mo - ‘both X and Y’ ‘neither X nor Y’,12.0,1,72,340,50,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,75,Drills and Exercises,12.0,1,254,543,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,75,A. Listen to the audio,12.0,1,90,571,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,75,". Following the first two model exchanges, respond to each",12.0,1,220,571,58,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,75,cue.,12.0,1,108,585,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,76,C. Say it in Japanese.,12.0,1,89,219,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,76,D. Act in Japanese with a partner.,12.0,1,89,461,34,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,77,Review,12.960000038146973,1,285,84,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,77,Grammar Review,12.0,1,259,112,14,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,77,Practical Applications,12.0,1,249,589,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,78,Numbers,12.0,1,282,83,7,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,81,100-1000,12.0,1,351,130,8,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,81,1000-9000,12.0,1,471,130,9,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,82,"10,000 – 90,000",12.0,1,274,139,15,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,83,Drill Tape Scripts,12.960000038146973,1,256,84,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,85,1. 雨とか雪、すごいですか。,13.920000076293945,0,105,158,15,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,85,2. 五番とか六番、安いですか。,13.920000076293945,0,105,174,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,85,3. アパートとかマンション、見ますか。,13.920000076293945,0,105,191,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,85,4. 宿題とか試験、多いですか。,13.920000076293945,0,105,208,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,85,5. 洗濯機とか、冷蔵庫、買いますか。,13.920000076293945,0,105,224,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,86,Lesson 4: Project Team,13.920000076293945,1,235,92,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,86,Dialogue 1,12.960000038146973,1,267,116,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,86,エクセルを使いますから。,13.352347373962402,0,145,328,12,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,86,そうですか。じゃ、がんばってください。,13.856406211853027,0,143,357,19,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,86,はい、がんばります。,13.606733322143555,0,143,387,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,86,Vocabulary,12.0,1,267,523,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,87,ファイル,14.342761993408203,0,305,209,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,87,Grammar Notes,12.0,1,264,252,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,87,"4-1-1 ~ mashou, Suggesting or Offering to Do Something",12.0,1,71,279,54,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,87,4-1-2 Particle O Marking the Object,12.0,1,71,667,35,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,89,Drills and Exercises,12.0,1,254,509,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,89,A. Listen to the audio,12.0,1,89,536,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,89,". Following the first two model exchanges, respond to each",12.0,1,220,536,58,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,89,cue.,12.0,1,108,550,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,89,もちろんです。いつ手伝いましょうか。,13.606733322143555,0,137,646,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,89,しますか。,13.606733322143555,0,137,674,5,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,89,もちろんです。いつしましょうか。,13.856406211853027,0,137,709,16,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,90,アプリ、使いますか。,13.606733322143555,0,137,136,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,90,はい、このアプリを使います。,13.606733322143555,0,137,178,14,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,90,テレビ、買いますか。,13.606733322143555,0,137,220,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,90,はい、このテレビを買います。,13.606733322143555,0,137,262,14,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,90,あれ、使いませんか。,13.352347373962402,0,137,427,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,90,はい、使いませんから、買いません。,13.352347373962402,0,137,468,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,90,D. Say it in Japanese.,12.0,1,90,496,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,91,E. Act these roles in Japanese with a partner.,12.0,1,90,110,46,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,91,Dialogue 2,12.960000038146973,1,267,270,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,91,みなさん、すこし休みましょう。,13.856406211853027,0,137,343,15,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,91,じゃ、お茶、入れましょうか。,13.606733322143555,0,137,386,14,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,91,じゃ、手伝います。,13.352347373962402,0,137,469,9,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,92,Vocabulary,12.0,1,267,83,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,92,スイーツ,13.606733322143555,0,299,309,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,92,Grammar Notes,12.0,1,264,448,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,92,4-2-1 Particle Ga Marking the Subject,12.0,1,72,476,37,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,93,Drills and Exercises,12.0,1,254,338,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,93,そうですね。皆さん、休みましょう。,13.856406211853027,0,137,462,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,93,帰りませんか。,13.352347373962402,0,137,502,7,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,93,そうですね。皆さん、帰りましょう。,13.856406211853027,0,137,545,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,93,いや、コーヒーも紅茶も飲みません。,13.352347373962402,0,137,667,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,93,ケーキやクッキー、食べますか。,13.606733322143555,0,137,709,15,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,94,いや、ケーキもクッキーも食べません。,13.606733322143555,0,137,111,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,94,ケーキですか。,13.352347373962402,0,101,180,7,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,94,はい、ケーキを買います。,13.352347373962402,0,137,222,12,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,94,D. Say it in Japanese.,12.0,1,89,349,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,94,E. Act out these roles in Japanese with a partner.,12.0,1,90,592,50,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,95,Dialogue 3,12.960000038146973,1,267,84,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,95,いえ、 外 食 です。,13.352347373962402,0,137,198,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,95,ぼくはラーメンが食べたいですけど。,13.606733322143555,0,124,319,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,95,いいラーメン屋さんが、ありますよ。,13.606733322143555,0,126,361,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,95,もちろんです。,13.606733322143555,0,137,470,7,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,95,Vocabulary,12.0,1,267,498,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,イタリアン,13.606733322143555,0,311,258,5,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,Additional Lunch Items,12.0,1,72,330,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,Tableware,12.0,1,72,480,9,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,すぷうん,13.606733322143555,0,164,507,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,スプーン,13.606733322143555,0,233,507,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,ふぉおく,14.342761993408203,0,164,523,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,フォーク,14.101659774780273,0,233,523,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,ちゃわん,13.606733322143555,0,164,579,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,96,どんぶり,13.856406211853027,0,164,611,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,97,Grammar Notes,12.0,1,264,83,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,97,4-3-1 Double-Subject Structures,12.0,1,72,110,31,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,97,4-3-2 Verb Stem + tai ‘want to do x’,12.0,1,71,609,36,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,98,Drills and Exercises,12.0,1,254,522,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,98,いります。,13.856406211853027,0,137,673,5,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,99,うどん、よく食べますねえ。,13.856406211853027,0,137,136,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,99,ええ、 私 はうどんが好きですから。,13.606733322143555,0,137,177,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,99,ゲーム、よくしますねえ。,13.856406211853027,0,137,208,12,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,99,ええ、 私 はゲームが好きですから。,13.352347373962402,0,137,264,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,99,いえ、これは見たいですけど、あれは見たくないです．,13.352347373962402,0,137,401,25,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,99,いえ、これは読みたいですけど、あれは読みたくないです。,13.352347373962402,0,137,498,27,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,99,D. Say it in Japanese.,12.0,1,90,525,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,100,E. Act these roles in Japanese with a partner.,12.0,1,90,152,46,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,100,Dialogue 4,12.960000038146973,1,267,308,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,100,とりあえず、ビール、三本ください。,13.856406211853027,0,137,427,17,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,Vocabulary,12.0,1,267,83,10,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,メニュー,13.856406211853027,0,311,324,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,ウーロン茶,13.352347373962402,0,305,447,5,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,Additional Food and Condiments,12.0,1,72,524,30,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,みそしる,13.606733322143555,0,168,550,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,ぎゅうにく 牛肉,14.579834938049316,0,168,630,8,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,ぶたにく,14.101659774780273,0,168,646,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,とりにく,14.813116073608398,0,168,662,4,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,すていき,13.352347373962402,0,168,678,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,ステーキ,13.352347373962402,0,239,678,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,101,やきにく,14.101659774780273,0,168,711,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,102,やきそば,13.352347373962402,0,168,84,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,102,しょうゆ,14.342761993408203,0,168,107,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,102,こしょう,14.813116073608398,0,168,155,4,12.0,H2,1
+Beginning Japanese for Professionals_ Book 1.pdf,102,Grammar Notes,12.0,1,264,222,13,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,102,4-4-1 More Classifiers: ~hon 、 ~tsu,12.0,1,72,251,35,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,103,4-4-2 Quantity Expressions,12.0,1,72,525,26,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,Drills and Exercises,12.0,1,254,368,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,A. Listen to the audio,12.0,1,90,395,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,". Following the first two model exchanges, respond to each",12.0,1,220,395,58,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,cue.,12.0,1,108,409,4,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,さしみとビールですか。,13.606733322143555,0,137,572,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,はい、さしみを二つとビールを三本、ください。,13.606733322143555,0,137,628,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,リンゴとみかんですか。,13.606733322143555,0,137,657,11,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,104,はい、リンゴを二つと、みかんを三つください。,13.856406211853027,0,137,712,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,105,C. Say it in Japanese.,12.0,1,90,83,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,105,D. Act these roles in Japanese with a partner.,12.0,1,90,219,46,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,105,Review,12.960000038146973,1,285,400,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,105,Grammar Review,12.0,1,259,428,14,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,107,Practical Applications,12.0,1,249,83,22,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,107,Drill Tape Scripts,12.960000038146973,1,256,280,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,108,みましょう。,13.856406211853027,0,119,139,6,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,109,1. 日本語、 よく 勉強しますね え。,13.682106018066406,0,137,115,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,109,3. リンゴやみかん、よく買いますねえ。,13.682106018066406,0,137,146,20,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,109,4. 日本のアニメ、よく見ますねえ。,13.682106018066406,0,137,162,18,12.0,H3,1
+Beginning Japanese for Professionals_ Book 1.pdf,109,5. あのアプリ、よく使いますねえ。,13.682106018066406,0,137,178,18,12.0,H3,1
+"anju kumari,geography.pdf",1,/kuckn ft,20.960250854492188,0,168,88,9,14.971575736999512,H2,1
+"anju kumari,geography.pdf",1,'kks/k funsZ'kd,20.960250854492188,0,72,487,15,14.971575736999512,H2,1
+"anju kumari,geography.pdf",1,MkWŒ lqjfHk lkgq,17.007749557495117,0,75,527,16,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,lgk;d izk/;kfidk,17.007749557495117,0,75,545,16,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,Hkwxksy foHkkx,17.007749557495117,0,75,562,14,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,jk¡ph foesUl dkWyst jkaph,17.007749557495117,0,75,580,25,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,eksŒ 8210648782,17.007749557495117,0,75,598,15,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,bZ&esy& surbhiranchi20573@,17.007749557495117,0,75,616,26,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,"ftyk esa tula[;k ,oa vf/kokl%",20.960250854492188,0,221,88,29,14.971575736999512,H2,1
+"anju kumari,geography.pdf",1,",d HkkSxksfyd v/;;u",20.960250854492188,0,235,120,19,14.971575736999512,H2,1
+"anju kumari,geography.pdf",1,'kks/kkFkhZ,20.960250854492188,0,324,487,11,14.971575736999512,H2,1
+"anju kumari,geography.pdf",1,vatw dqekjh,17.007749557495117,0,332,509,11,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,lgk;d izk/;ikfidk ¼v,17.007749557495117,0,332,545,20,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,Hkwxksy foHkkx,17.007749557495117,0,332,562,14,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,"vkjŒ,lŒ eksjŒ egkfo|",17.007749557495117,0,332,580,20,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,fcuksn fcgkjh egrks dks,17.007749557495117,0,332,598,23,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,fo'ofo|ky;] /kuckn,17.007749557495117,0,332,616,18,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,eksŒ 8340615299,17.007749557495117,0,332,634,15,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,bZ&esy& kumarianjuhz,17.007749557495117,0,332,652,20,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,vuqca/k½,17.007749557495117,0,451,545,8,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,|ky;] xksfoaniqj,17.007749557495117,0,453,580,16,14.971575736999512,H3,1
+"anju kumari,geography.pdf",1,k;ykapy,17.007749557495117,0,454,598,7,14.971575736999512,H3,1
+"anju kumari,geography.pdf",12,lanHkZ lwph,18.924074172973633,0,108,588,11,14.971575736999512,H2,1
+fb0724.pdf,1,IAB-FORSCHUNGSBERICHT,45.0,1,56,190,21,10.5600004196167,H1,1
+fb0724.pdf,1,Aktuelle Ergebnisse aus der Projektarbeit des Instituts für Arbeitsmarkt- und Berufsforschung,9.960000038146973,1,56,210,93,10.5600004196167,H3,1
+fb0724.pdf,1,7|2024 Arbeitskräftebedarf und Arbeitskräfteangebot entlang,20.040000915527344,1,56,297,59,10.5600004196167,H1,1
+fb0724.pdf,1,der Wertschöpfungskette Wasserstoff: Szenario-v2.1,20.040000915527344,1,56,321,50,10.5600004196167,H1,1
+fb0724.pdf,1,"Schur, Johanna Zenk",11.039999961853027,1,56,358,19,10.5600004196167,H3,1
+fb0724.pdf,1,ISSN 2195-2655,9.960000038146973,1,56,770,14,10.5600004196167,H3,1
+fb0724.pdf,2,Arbeitskräftebedarf und,23.520000457763672,1,85,109,23,10.5600004196167,H1,1
+fb0724.pdf,2,Arbeitskräfteangebot entlang der,23.520000457763672,1,85,139,32,10.5600004196167,H1,1
+fb0724.pdf,2,Wertschöpfungskette Wasserstoff:,23.520000457763672,1,85,168,32,10.5600004196167,H1,1
+fb0724.pdf,2,Szenario-v2.1,23.520000457763672,1,85,198,13,10.5600004196167,H1,1
+fb0724.pdf,2,Linus Ronsiek (GWS),11.039999961853027,1,85,245,19,10.5600004196167,H3,1
+fb0724.pdf,2,Christian Schneemann (IAB),11.039999961853027,1,85,259,26,10.5600004196167,H3,1
+fb0724.pdf,2,Anke Mönnig (GWS),11.039999961853027,1,85,273,17,10.5600004196167,H3,1
+fb0724.pdf,2,David Samray (BIBB),11.039999961853027,1,85,286,19,10.5600004196167,H3,1
+fb0724.pdf,2,Jan Philipp Schroer (BIBB),11.039999961853027,1,85,300,26,10.5600004196167,H3,1
+fb0724.pdf,2,Alexander Christian Schur (BIBB),11.039999961853027,1,85,314,32,10.5600004196167,H3,1
+fb0724.pdf,2,Johanna Zenk (IAB),11.039999961853027,1,85,328,18,10.5600004196167,H3,1
+fb0724.pdf,3,In aller Kürze,20.040000915527344,1,85,82,14,10.5600004196167,H1,1
+fb0724.pdf,4,Inhalt,20.040000915527344,1,85,82,6,10.5600004196167,H1,1
+fb0724.pdf,5,Zusammenfassung,20.040000915527344,1,85,110,15,10.5600004196167,H1,1
+fb0724.pdf,6,Summary,20.040000915527344,1,85,350,7,10.5600004196167,H1,1
+fb0724.pdf,7,Danksagung,20.040000915527344,1,85,514,10,10.5600004196167,H1,1
+fb0724.pdf,8,1 Einleitung,23.520000457763672,1,85,86,12,10.5600004196167,H1,1
+fb0724.pdf,9,2 Modellierung und Annahmen,23.520000457763672,1,85,310,27,10.5600004196167,H1,1
+fb0724.pdf,9,2.1 Das QuBe-Modellinstrumentarium,15.0,1,85,348,34,10.5600004196167,H2,1
+fb0724.pdf,9,IN terindustry FOR ecasting Ge rmany). Die darin enthaltenen Module werden simultan gelöst und,10.5600004196167,1,85,449,94,10.5600004196167,H3,1
+fb0724.pdf,10,2.2 Szenariotechnik,15.0,1,85,727,19,10.5600004196167,H2,1
+fb0724.pdf,11,Szenario. Neben der Fortschreibung vergangener Trends und Verhaltensweisen beinhaltet sie,10.5600004196167,1,85,171,89,10.5600004196167,H3,1
+fb0724.pdf,12,2.3 Annahmen,15.0,1,85,78,12,10.5600004196167,H2,1
+fb0724.pdf,12,2.3.1,11.520000457763672,1,85,107,5,10.5600004196167,H3,1
+fb0724.pdf,12,Übersicht,11.520000457763672,1,121,107,9,10.5600004196167,H3,1
+fb0724.pdf,13,2.3.2,11.520000457763672,1,85,75,5,10.5600004196167,H3,1
+fb0724.pdf,13,"Bedarf, Erzeugung und Import",11.520000457763672,1,121,75,28,10.5600004196167,H3,1
+fb0724.pdf,14,2.3.3,11.520000457763672,1,85,119,5,10.5600004196167,H3,1
+fb0724.pdf,14,Kosten,11.520000457763672,1,121,119,6,10.5600004196167,H3,1
+fb0724.pdf,15,2.3.4,11.520000457763672,1,85,602,5,10.5600004196167,H3,1
+fb0724.pdf,15,Infrastruktur,11.520000457763672,1,121,602,13,10.5600004196167,H3,1
+fb0724.pdf,16,2.3.5,11.520000457763672,1,85,335,5,10.5600004196167,H3,1
+fb0724.pdf,16,Technologieexporte,11.520000457763672,1,121,335,18,10.5600004196167,H3,1
+fb0724.pdf,16,2.3.6,11.520000457763672,1,85,543,5,10.5600004196167,H3,1
+fb0724.pdf,16,Synthetische Kraftstoffe,11.520000457763672,1,121,543,24,10.5600004196167,H3,1
+fb0724.pdf,17,2.3.7,11.520000457763672,1,85,167,5,10.5600004196167,H3,1
+fb0724.pdf,17,Weiterbildung,11.520000457763672,1,121,167,13,10.5600004196167,H3,1
+fb0724.pdf,18,Ergebnisse,23.520000457763672,1,121,86,10,10.5600004196167,H1,1
+fb0724.pdf,18,3.1 Gesamtwirtschaft,15.0,1,85,124,20,10.5600004196167,H2,1
+fb0724.pdf,19,3.2 Arbeitsmarkt,15.0,1,85,667,16,10.5600004196167,H2,1
+fb0724.pdf,19,3.2.1,11.520000457763672,1,85,696,5,10.5600004196167,H3,1
+fb0724.pdf,19,Erwerbstätige und Erwerbspersonen,11.520000457763672,1,121,696,33,10.5600004196167,H3,1
+fb0724.pdf,20,3.2.2,11.520000457763672,1,85,724,5,10.5600004196167,H3,1
+fb0724.pdf,20,Arbeitsplatzaufbau und -abbau,11.520000457763672,1,121,724,29,10.5600004196167,H3,1
+fb0724.pdf,21,3.2.3,11.520000457763672,1,85,669,5,10.5600004196167,H3,1
+fb0724.pdf,21,Erwerbstätige nach Wirtschaftsbereichen,11.520000457763672,1,121,669,39,10.5600004196167,H3,1
+fb0724.pdf,24,3.2.4,11.520000457763672,1,85,601,5,10.5600004196167,H3,1
+fb0724.pdf,24,Erwerbstätige nach Berufsgruppen,11.520000457763672,1,121,601,32,10.5600004196167,H3,1
+fb0724.pdf,26,3.2.5,11.520000457763672,1,85,621,5,10.5600004196167,H3,1
+fb0724.pdf,26,Anforderungsniveaus,11.520000457763672,1,121,621,19,10.5600004196167,H3,1
+fb0724.pdf,27,Sensitivitätsanalyse,23.520000457763672,1,121,477,20,10.5600004196167,H1,1
+fb0724.pdf,30,Schlussfolgerungen,23.520000457763672,1,121,621,18,10.5600004196167,H1,1
+fb0724.pdf,33,Literatur,20.040000915527344,1,85,82,9,10.5600004196167,H1,1
+fb0724.pdf,33,wichtigste-in-kuerze.,10.5600004196167,1,85,164,21,10.5600004196167,H3,1
+fb0724.pdf,33,https://www.aemo.com.au/.,10.5600004196167,1,85,200,25,10.5600004196167,H3,1
+fb0724.pdf,33,energiewende.de/fileadmin/Projekte/2022/2022-12-10_Trans4Real/A-EW_301_LCOH_WEB.pdf.,10.5600004196167,1,85,252,84,10.5600004196167,H3,1
+fb0724.pdf,33,https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-,10.5600004196167,1,85,304,76,10.5600004196167,H3,1
+fb0724.pdf,33,research/publications/specials/en/2023/april/2023-04-05-Industry.pdf.,10.5600004196167,1,85,320,69,10.5600004196167,H3,1
+fb0724.pdf,33,factsheet_06-23_chemie-_und_raffinerieindustrie_web.pdf.,10.5600004196167,1,85,444,56,10.5600004196167,H3,1
+fb0724.pdf,33,https://www.bmbf.de/bmbf/shareddocs/kurzmeldungen/de/wissenswertes-zu-gruenem-,10.5600004196167,1,85,496,78,10.5600004196167,H3,1
+fb0724.pdf,33,wasserstoff.html.,10.5600004196167,1,85,512,17,10.5600004196167,H3,1
+fb0724.pdf,33,Bekanntmachung-,10.5600004196167,1,85,564,15,10.5600004196167,H3,1
+fb0724.pdf,33,"Wasserstoff.html#:~:text=Derivate%20im%20Sinne%20dieser%20Richtlinie,%2C%20Ottokraftst",10.5600004196167,1,85,580,86,10.5600004196167,H3,1
+fb0724.pdf,33,off%2C%20Diesel%20und%20Kerosin.,10.5600004196167,1,85,596,32,10.5600004196167,H3,1
+fb0724.pdf,33,https://bmdv.bund.de/SharedDocs/DE/Anlage/LF/ptl-roadmap.pdf?__blob=publicationFile.,10.5600004196167,1,85,648,84,10.5600004196167,H3,1
+fb0724.pdf,33,wasserstoffstrategie.pdf?__blob=publicationFile&v=20.,10.5600004196167,1,85,700,53,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2024/02/20240226-habeck-will-den-,10.5600004196167,1,85,75,85,10.5600004196167,H3,1
+fb0724.pdf,34,einsatz-von-ccs-ermoeglichen.html.,10.5600004196167,1,85,91,34,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2024/02/20240216-habeck-,10.5600004196167,1,85,143,76,10.5600004196167,H3,1
+fb0724.pdf,34,wegweisender-beschluss-fuer-energieintensive-industrie.html?view=renderNewsletterHtml.,10.5600004196167,1,85,159,86,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmbf.de/SharedDocs/Downloads/de/2023/230726-fortschreibung-,10.5600004196167,1,85,211,71,10.5600004196167,H3,1
+fb0724.pdf,34,nws.pdf?__blob=publicationFile&v=1.,10.5600004196167,1,85,227,35,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Navigation/DE/Wasserstoff/Internationale-,10.5600004196167,1,85,279,61,10.5600004196167,H3,1
+fb0724.pdf,34,Wasserstoffzusammenarbeit/internationale-wasserstoffzusammenarbeit.html.,10.5600004196167,1,85,295,72,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2023/08/20230801-rahmen-fuer-die-,10.5600004196167,1,85,363,85,10.5600004196167,H3,1
+fb0724.pdf,34,kraftwerksstrategie-steht.html.,10.5600004196167,1,85,379,31,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2023/06/20230601-bundesregierung-,10.5600004196167,1,85,447,85,10.5600004196167,H3,1
+fb0724.pdf,34,und-eu-kommission-machen-h2global-zum-europaeischen-wasserstoff-projekt.html.,10.5600004196167,1,85,463,77,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Redaktion/DE/Publikationen/Industrie/20220913-effiziente-nutzung-von-,10.5600004196167,1,85,515,89,10.5600004196167,H3,1
+fb0724.pdf,34,wasserstoff-in-der-glas-keramik-papier-und-ne-metallindustrie.pdf?__blob=publicationFile&v=4.,10.5600004196167,1,85,531,93,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Redaktion/DE/Wasserstoff/Downloads/fortschrittsbericht-der-,10.5600004196167,1,85,583,79,10.5600004196167,H3,1
+fb0724.pdf,34,nws.pdf?__blob=publicationFile&v=1.,10.5600004196167,1,85,599,35,10.5600004196167,H3,1
+fb0724.pdf,34,https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/11/20221117-habeck-erstes-,10.5600004196167,1,85,667,83,10.5600004196167,H3,1
+fb0724.pdf,34,importterminal-fur-grunen-ammoniak-kommt-nach-hamburg-wegmarke-fur-hochlauf-der-,10.5600004196167,1,85,683,80,10.5600004196167,H3,1
+fb0724.pdf,34,wasserstoffwirtschaft.html.,10.5600004196167,1,85,699,27,10.5600004196167,H3,1
+fb0724.pdf,34,energiewende.de/EWD/Redaktion/Newsletter/2022/01/Meldung/direkt-erklaert.html.,10.5600004196167,1,85,751,78,10.5600004196167,H3,1
+fb0724.pdf,35,https://www.dvgw.de/medien/dvgw/forschung/berichte/g201926-abschlussbericht-,10.5600004196167,1,85,155,76,10.5600004196167,H3,1
+fb0724.pdf,35,transformation-ugs.pdf.,10.5600004196167,1,85,171,23,10.5600004196167,H3,1
+fb0724.pdf,35,https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-,10.5600004196167,1,85,207,74,10.5600004196167,H3,1
+fb0724.pdf,35,Statistiken/Fachkraeftebedarf/Engpassanalyse-Nav.html.,10.5600004196167,1,85,223,54,10.5600004196167,H3,1
+fb0724.pdf,35,https://www.bundesnetzagentur.de/DE/Gasversorgung/aktuelle_gasversorgung/_svg/Gaspreise,10.5600004196167,1,85,275,87,10.5600004196167,H3,1
+fb0724.pdf,35,/Gaspreise.html.,10.5600004196167,1,85,291,16,10.5600004196167,H3,1
+fb0724.pdf,35,https://www.smard.de.,10.5600004196167,1,85,327,21,10.5600004196167,H3,1
+fb0724.pdf,35,de/aktuelles/kraftwerksstrategie-2257868.,10.5600004196167,1,85,379,41,10.5600004196167,H3,1
+fb0724.pdf,35,https://www.bundesregierung.de/breg-de/aktuelles/pressemitteilungen/chemie-,10.5600004196167,1,85,415,75,10.5600004196167,H3,1
+fb0724.pdf,35,spitzengespraech-am-27-september-2023-2226128.,10.5600004196167,1,85,431,46,10.5600004196167,H3,1
+fb0724.pdf,35,https://www.vci.de/vci/downloads-vci/publikation/broschueren-und-faltblaetter/final-c4c-,10.5600004196167,1,85,467,88,10.5600004196167,H3,1
+fb0724.pdf,35,broschure-langfassung-es.pdf.,10.5600004196167,1,85,483,29,10.5600004196167,H3,1
+fb0724.pdf,35,https://dserver.bundestag.de/btd/20/087/2008718.pdf.,10.5600004196167,1,85,519,52,10.5600004196167,H3,1
+fb0724.pdf,35,https://seffaflik.epias.com.tr/.,10.5600004196167,1,85,719,32,10.5600004196167,H3,1
+fb0724.pdf,36,kommission-legt-definition-von-erneuerbarem-wasserstoff-vor-2023-02-13_de.,10.5600004196167,1,85,211,74,10.5600004196167,H3,1
+fb0724.pdf,36,gas.de/wp-content/uploads/2023/11/2023_11_15_Entwurf_Antrag_Wasserstoff-,10.5600004196167,1,85,247,72,10.5600004196167,H3,1
+fb0724.pdf,36,Kernnetz_final.pdf.,10.5600004196167,1,85,263,19,10.5600004196167,H3,1
+fb0724.pdf,36,Gas-2022-2032-Zwischenstand.pdf.,10.5600004196167,1,85,315,32,10.5600004196167,H3,1
+fb0724.pdf,36,https://langfristszenarien.de/enertile-explorer-de/.,10.5600004196167,1,85,351,52,10.5600004196167,H3,1
+fb0724.pdf,36,rest.fraunhofer.de/server/api/core/bitstreams/32b53493-fadc-4bb0-bc02-,10.5600004196167,1,85,419,70,10.5600004196167,H3,1
+fb0724.pdf,36,0a8db0704160/content.,10.5600004196167,1,85,435,21,10.5600004196167,H3,1
+fb0724.pdf,36,saarlaendischen-wasserstoffwirtschaft.,10.5600004196167,1,85,503,38,10.5600004196167,H3,1
+fb0724.pdf,36,era-of-hydrogen-energy-suiso-frontier-built-by-japans-kawasaki-heavy-industries/.,10.5600004196167,1,85,555,81,10.5600004196167,H3,1
+fb0724.pdf,36,product/hydrogen-production-and-infrastructure-projects-database.,10.5600004196167,1,85,607,65,10.5600004196167,H3,1
+fb0724.pdf,36,10b13d840027/NetZeroby2050-ARoadmapfortheGlobalEnergySector_CORR.pdf.,10.5600004196167,1,85,659,69,10.5600004196167,H3,1
+fb0724.pdf,36,https://iea.blob.core.windows.net/assets/9e3a3493-b9a6-4b7d-b499-,10.5600004196167,1,85,695,65,10.5600004196167,H3,1
+fb0724.pdf,36,7ca48e357561/The_Future_of_Hydrogen.pdf.,10.5600004196167,1,85,711,40,10.5600004196167,H3,1
+fb0724.pdf,36,https://www.iexindia.com/marketdata/areaprice.aspx.,10.5600004196167,1,85,747,51,10.5600004196167,H3,1
+fb0724.pdf,37,https://www.bibb.de/dienst/publikationen/de/download/18168.,10.5600004196167,1,85,175,59,10.5600004196167,H3,1
+fb0724.pdf,37,https://epub.wupperinst.org/frontdoor/deliver/index/docId/8344/file/8344_Wasserstoffkosten.p,10.5600004196167,1,85,227,92,10.5600004196167,H3,1
+fb0724.pdf,37,koeln.de/de/tools/globales-ptx-produktions-und-importkostentool/.,10.5600004196167,1,85,347,65,10.5600004196167,H3,1
+fb0724.pdf,37,https://www.bibb.de/dokumente/pdf/BWP-2023-H4-47f.pdf.,10.5600004196167,1,85,471,54,10.5600004196167,H3,1
+fb0724.pdf,37,https://evaluationdata.pwc.de/kapitalmarktdaten-versorgungsbetriebe/.,10.5600004196167,1,85,527,69,10.5600004196167,H3,1
+fb0724.pdf,37,datenportal.de.,10.5600004196167,1,85,563,15,10.5600004196167,H3,1
+fb0724.pdf,37,https://www.consilium.europa.eu/de/press/press-releases/2023/07/25/alternative-fuels-,10.5600004196167,1,85,715,85,10.5600004196167,H3,1
+fb0724.pdf,37,infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-,10.5600004196167,1,85,731,89,10.5600004196167,H3,1
+fb0724.pdf,37,europe/.,10.5600004196167,1,85,747,8,10.5600004196167,H3,1
+fb0724.pdf,38,https://www.consilium.europa.eu/de/press/press-releases/2023/07/25/fueleu-maritime-,10.5600004196167,1,85,107,83,10.5600004196167,H3,1
+fb0724.pdf,38,initiative-council-adopts-new-law-to-decarbonise-the-maritime-sector/.,10.5600004196167,1,85,123,70,10.5600004196167,H3,1
+fb0724.pdf,38,https://www.consilium.europa.eu/de/press/press-releases/2023/10/09/refueleu-aviation-,10.5600004196167,1,85,175,85,10.5600004196167,H3,1
+fb0724.pdf,38,initiative-council-adopts-new-law-to-decarbonise-the-aviation-sector/.,10.5600004196167,1,85,191,70,10.5600004196167,H3,1
+fb0724.pdf,38,rest.fraunhofer.de/server/api/core/bitstreams/2472549c-0b7e-4ec8-97e7-5e26a7f4cbd2/content.,10.5600004196167,1,85,295,91,10.5600004196167,H3,1
+fb0724.pdf,38,entwicklung/projektvorhaben/projektstandort-brunsbuettel/.,10.5600004196167,1,85,363,58,10.5600004196167,H3,1
+fb0724.pdf,38,erfurt.de/fileadmin/Dokumente/GTI/Dokumente_GE/forschung/lenz/fp-2022-,10.5600004196167,1,85,431,70,10.5600004196167,H3,1
+fb0724.pdf,38,wasserstoffnachfragepotentiale.pdf.,10.5600004196167,1,85,447,35,10.5600004196167,H3,1
+fb0724.pdf,38,https://res.bibb.de/vet-repository_781481.,10.5600004196167,1,85,515,42,10.5600004196167,H3,1
+fb0724.pdf,38,seyda-beate-placke-weiterbildung-auf-wachstumskurs-493427.html.,10.5600004196167,1,85,567,63,10.5600004196167,H3,1
+fb0724.pdf,38,content/uploads/2020/09/indwede-studie_v04.1.pdf.,10.5600004196167,1,85,651,49,10.5600004196167,H3,1
+fb0724.pdf,38,https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf.,10.5600004196167,1,85,735,89,10.5600004196167,H3,1
+fb0724.pdf,39,zukunft.de/fileadmin/user_upload/Publikationen/PDFs/Analyse_Wasserstoff_neu.pdf.,10.5600004196167,1,85,171,80,10.5600004196167,H3,1
+fb0724.pdf,39,https://www.statista.com/statistics/1029737/chile-electricity-average-market-,10.5600004196167,1,85,207,77,10.5600004196167,H3,1
+fb0724.pdf,39,price/#:~:text=Chile%E2%80%99s%20electricity%20market%20price%20has%20been%20on%2,10.5600004196167,1,85,223,81,10.5600004196167,H3,1
+fb0724.pdf,39,"0an,on%20a%20four-month%20average%20ending%20in%20this%20month%29.",10.5600004196167,1,85,239,66,10.5600004196167,H3,1
+fb0724.pdf,39,https://www.transnetbw.de/_Resources/Persistent/b/d/7/9/bd793c1560aac21d8ee3f2ae3a0be4,10.5600004196167,1,85,343,86,10.5600004196167,H3,1
+fb0724.pdf,39,9fe4c0e54c/Enervis-Studie%20Anreizwirkung%20Neubau-Vorschuss%2024.03.2023.pdf.,10.5600004196167,1,85,359,78,10.5600004196167,H3,1
+fb0724.pdf,39,https://www.umweltbundesamt.de/sites/default/files/medien/479/dokumente/uba_kurzeinsch,10.5600004196167,1,85,411,86,10.5600004196167,H3,1
+fb0724.pdf,39,aetzung_von_ammoniak_als_energietraeger_und_transportmedium_fuer_wasserstoff.pdf.,10.5600004196167,1,85,427,81,10.5600004196167,H3,1
+fb0724.pdf,39,https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_2020_68,10.5600004196167,1,85,479,89,10.5600004196167,H3,1
+fb0724.pdf,39,_systemvergleich_speicherbarer_energietraeger_aus_erneuerbaren_energien.pdf.,10.5600004196167,1,85,495,76,10.5600004196167,H3,1
+fb0724.pdf,39,https://www.uniper.energy/de/loesungen/energy-transformation-hubs/energy-transformation-,10.5600004196167,1,85,531,88,10.5600004196167,H3,1
+fb0724.pdf,39,hub-nordwest/green-wilhelmshaven.,10.5600004196167,1,85,547,33,10.5600004196167,H3,1
+fb0724.pdf,39,1.pdf.,10.5600004196167,1,85,615,6,10.5600004196167,H3,1
+fb0724.pdf,39,bayern.de/Redaktion/Frei-zugaengliche-Medien/Abteilungen-,10.5600004196167,1,85,667,57,10.5600004196167,H3,1
+fb0724.pdf,39,GS/Wirtschaftspolitik/2023/Downloads/vbw-Studie_Internationaler-,10.5600004196167,1,85,683,64,10.5600004196167,H3,1
+fb0724.pdf,39,Energiepreisvergleich_Oktober-2023.pdf.,10.5600004196167,1,85,699,39,10.5600004196167,H3,1
+fb0724.pdf,39,zugaengliche-Medien/Abteilungen-,10.5600004196167,1,85,735,32,10.5600004196167,H3,1
+fb0724.pdf,39,GS/Wirtschaftspolitik/2023/Downloads/vbw_Strompreisprognose_Juli-2023-3.pdf.,10.5600004196167,1,85,751,76,10.5600004196167,H3,1
+fb0724.pdf,40,nachrichten.com/technik/werkstoffe/direktreduktion-diese-anlagentechnik-wird-bei-,10.5600004196167,1,85,107,81,10.5600004196167,H3,1
+fb0724.pdf,40,thyssenkrupp-und-co-den-hochofen-abloesen/.,10.5600004196167,1,85,123,43,10.5600004196167,H3,1
+fb0724.pdf,40,https://www.iab-forum.de/gruene-energie-ist-die-zukunft-der-deutschen-industrie/.,10.5600004196167,1,85,159,81,10.5600004196167,H3,1
+fb0724.pdf,40,https://www.welt.de/regionales/hamburg/article242186455/Erneuerbare-Energien-Hamburg-,10.5600004196167,1,85,195,85,10.5600004196167,H3,1
+fb0724.pdf,40,bekommt-erstes-Terminal-fuer-gruenen-Ammoniak.html.,10.5600004196167,1,85,211,51,10.5600004196167,H3,1
+fb0724.pdf,40,2.0-Handlungsbedarf-aus-Sicht-der-Stahlindustrie.pdf.,10.5600004196167,1,85,263,53,10.5600004196167,H3,1
+fb0724.pdf,40,https://res.bibb.de/vet-repository_780958.,10.5600004196167,1,85,399,42,10.5600004196167,H3,1
+fb0724.pdf,40,https://doi.org/10.3278/9783763973712.,10.5600004196167,1,85,503,38,10.5600004196167,H3,1
+fb0724.pdf,40,https://www.bmas.de/SharedDocs/Downloads/DE/Publikationen/Forschungsberichte/fb631-,10.5600004196167,1,85,571,83,10.5600004196167,H3,1
+fb0724.pdf,40,szenarien-ueber-die-erhoehung-des-arbeitskraeftepotenzials.pdf?__blob=publicationFile&v=1.,10.5600004196167,1,85,587,90,10.5600004196167,H3,1
+fb0724.pdf,41,Anhang,23.520000457763672,1,85,86,6,10.5600004196167,H1,1
+fb0724.pdf,41,A1 Wasserstoffbedarf,15.0,1,85,124,20,10.5600004196167,H2,1
+fb0724.pdf,41,Energieversorgung,10.5600004196167,1,85,402,17,10.5600004196167,H3,1
+fb0724.pdf,41,Straßenverkehr,10.5600004196167,1,85,687,14,10.5600004196167,H3,1
+fb0724.pdf,42,A2 Inländische Wasserstofferzeugung,15.0,1,85,206,35,10.5600004196167,H2,1
+fb0724.pdf,42,A3 Umrüstungsinvestitionen,15.0,1,85,643,26,10.5600004196167,H2,1
+fb0724.pdf,43,A4 Wasserstoffgestehungskosten,15.0,1,85,307,30,10.5600004196167,H2,1
+fb0724.pdf,45,A5 Wasserstoffimportkosten,15.0,1,85,78,26,10.5600004196167,H2,1
+fb0724.pdf,46,A6 Wasserstoffinfrastruktur,15.0,1,85,78,27,10.5600004196167,H2,1
+fb0724.pdf,46,Importterminals,10.5600004196167,1,85,100,15,10.5600004196167,H3,1
+fb0724.pdf,46,Wasserstoffpipelines,10.5600004196167,1,85,368,20,10.5600004196167,H3,1
+fb0724.pdf,46,Wasserstoffspeicher,10.5600004196167,1,85,678,19,10.5600004196167,H3,1
+fb0724.pdf,47,Wasserstofftankstellen,10.5600004196167,1,85,160,22,10.5600004196167,H3,1
+fb0724.pdf,47,A7 Technologieexport,15.0,1,85,359,20,10.5600004196167,H2,1
+fb0724.pdf,47,A8 Synthetische Kraftstoffe,15.0,1,85,588,27,10.5600004196167,H2,1
+fb0724.pdf,49,A9 Weiterbildung,15.0,1,85,219,16,10.5600004196167,H2,1
+fb0724.pdf,50,Abbildungsverzeichnis,20.040000915527344,1,85,94,21,10.5600004196167,H1,1
+fb0724.pdf,50,Tabellenverzeichnis,20.040000915527344,1,85,537,19,10.5600004196167,H1,1
+fb0724.pdf,52,Impressum,20.040000915527344,1,85,75,9,10.5600004196167,H1,1
+fb0724.pdf,52,IAB-Forschungsbericht 7|2024,11.520000457763672,1,85,127,28,10.5600004196167,H3,1
+fb0724.pdf,52,Veröffentlichungsdatum,10.5600004196167,1,85,167,22,10.5600004196167,H3,1
+fb0724.pdf,52,Herausgeber,10.5600004196167,1,85,214,11,10.5600004196167,H3,1
+fb0724.pdf,52,Nutzungsrechte,10.5600004196167,1,85,309,14,10.5600004196167,H3,1
+fb0724.pdf,52,https://creativecommons.org/licenses/by-sa/4.0/deed.de,10.5600004196167,1,85,358,54,10.5600004196167,H3,1
+fb0724.pdf,52,Bezugsmöglichkeit dieses Dokuments,10.5600004196167,1,85,388,34,10.5600004196167,H3,1
+fb0724.pdf,52,https://doku.iab.de/forschungsbericht/2024/fb0724.pdf,10.5600004196167,1,85,405,53,10.5600004196167,H3,1
+fb0724.pdf,52,Bezugsmöglichkeit aller Veröffentlichungen der Reihe „IAB-Forschungsbericht“,10.5600004196167,1,85,435,76,10.5600004196167,H3,1
+fb0724.pdf,52,https://iab.de/publikationen/iab-publikationsreihen/iab-forschungsbericht/,10.5600004196167,1,85,452,74,10.5600004196167,H3,1
+fb0724.pdf,52,Website,10.5600004196167,1,85,482,7,10.5600004196167,H3,1
+fb0724.pdf,52,https://iab.de,10.5600004196167,1,85,499,14,10.5600004196167,H3,1
+fb0724.pdf,52,ISSN,10.5600004196167,1,85,529,4,10.5600004196167,H3,1
+fb0724.pdf,52,10.48720/IAB.FB.2407,10.5600004196167,1,85,593,20,10.5600004196167,H3,1
+fb0724.pdf,52,Rückfragen zum Inhalt,10.5600004196167,1,85,655,21,10.5600004196167,H3,1
+prize_regulations_2024_4.pdf,1,"Требования к исследовательской работе, представленной на Конкурс",12.0,1,115,119,64,12.0,H3,1
+prize_regulations_2024_4.pdf,1,Премии «Вечный вклад»:,12.0,1,234,135,22,12.0,H3,1
+trabdeinvlineamientos1.pdf,1,TRABAJO DE INVESTIGACIÓN,23.993209838867188,1,134,391,24,11.036693572998047,H1,1
+trabdeinvlineamientos1.pdf,1,ORIENTACIONES YLINEAMIENTOS PARA SU PRESENTACIÓN,17.994834899902344,1,90,427,48,11.036693572998047,H1,1
+trabdeinvlineamientos1.pdf,3,INDICE,14.03603458404541,1,286,98,6,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,5,INTRODUCCIÓN,11.996455192565918,1,85,112,12,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,6,CAPÍTULO I,14.03603458404541,1,270,154,10,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,6,¿QUÉ ES UN TRABAJO DE INVESTIGACIÓN?,14.03603458404541,1,161,179,36,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,6,1. ALGUNOS CONCEPTOS,11.996455192565918,1,103,296,20,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,7,2. FUNCIÓN DE UN TRABAJO DE INVESTIGACIÓN,11.996455192565918,1,103,153,41,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,7,elaborando los temas según el enfoque que vaya a darle. La realidad indica que es muy común,11.036693572998047,1,85,457,91,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,7,3. LOS PUNTOS DE PARTIDA PARA INVESTIGAR,11.996455192565918,1,103,534,40,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,10,CAPÍTULO II,14.03603458404541,1,267,154,11,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,10,DISEÑO DEL PROCESO DE INVESTIGACIÓN,14.03603458404541,1,162,179,35,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,10,1. PLANIFICACIÓN,11.996455192565918,1,103,239,16,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,10,2. PLANTEO DE LA INVESTIGACIÓN,11.996455192565918,1,103,551,30,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,11,Limitaciones para la elección,11.036693572998047,1,85,114,29,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,11,"CUÁNDO, CÓMO OP OR QUÉ. Un trabajo que responda a muchas preguntas de las anteriores de forma",11.036693572998047,1,85,151,93,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,11,objeto de estudio a uno o unos pocos aspectos determinados.,11.036693572998047,1,85,189,59,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,12,…antes de decidirse por un tema es necesario sopesar si es posible y capaz de encontrar,11.036693572998047,1,85,533,87,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,12,"información sobre el mismo, para lo cual deberá buscar en lugares específicos, obras específicas",11.036693572998047,1,85,552,96,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,12,y evitar las publicaciones de divulgación.,11.036693572998047,1,85,571,42,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,13,La importancia de las preguntas,11.036693572998047,1,113,228,31,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,15,Administración :,11.036693572998047,1,120,250,16,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,15,Economía :,11.036693572998047,1,120,345,10,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,15,Ciencias contables:,11.036693572998047,1,120,440,19,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,15,el conocimiento que pretendo alcanzar?; ¿existe concordancia con el problema encontrado,11.036693572998047,1,85,648,87,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,15,"conocer más del objetivo general?, ¿ayudan a colaborar con la investigación del problema?",11.036693572998047,1,85,724,89,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,16,solución a qué problema se espera desarrollar?,11.036693572998047,1,85,360,46,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,16,3. METODOLOGÍA YEVALUACIÓN DE LOS RECURSOS,11.036693572998047,1,103,417,42,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,16,explicativo “orienta a la comprobación de hipótesis casuales” (Méndez 2009).,11.036693572998047,1,85,740,76,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,18,iberoamericano.org),11.036693572998047,1,121,363,19,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,18,http://www.uces.edu.ar/biblioteca_virtual.php#89,11.036693572998047,1,121,594,48,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,18,Temporales. Implica estimar el tiempo que se dispone para la realización del trabajo.,11.036693572998047,1,155,766,85,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,19,Financieros. Es conveniente estimar el costo de la investigación para saber si se,11.036693572998047,1,155,95,81,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,19,"Humanos. Si es que se necesita la labor de dibujantes, encuestadores, etc. O recursos",11.036693572998047,1,155,170,85,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,19,"Conexionales. Se refieren a la navegación en Internet, a fin de aprovechar la inmensa",11.036693572998047,1,155,227,85,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,20,CAPÍTULO III,14.03603458404541,1,264,135,12,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,20,DESARROLLO DE LA INVESTIGACIÓN,14.03603458404541,1,180,160,30,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,20,1. PROCESAMIENTO DE LA INFORMACIÓN,11.036693572998047,1,85,636,34,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,21,información. Se analiza la información que se tiene en las fichas y se la clasifica de acuerdo al,11.036693572998047,1,85,114,97,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,21,2. REDACCIÓN,11.996455192565918,1,85,229,12,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,23,3. ESTRUCTURA DEL TRABAJO,11.996455192565918,1,85,475,25,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,24,Hipótesis. ¿Qué se pretende probar?; ¿a través de qué desarrollo temático y analítico se,11.036693572998047,1,121,512,88,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,24,"Método. ¿Cuáles son los instrumentos que se pondrán en juego para resolver la hipótesis?,",11.036693572998047,1,121,588,89,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,27,4. LA PRESENTACIÓN FINAL,11.996455192565918,1,85,115,24,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,28,5. LA EXPOSICIÓN ORAL,11.996455192565918,1,85,191,21,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,28,6. LA CALIFICACIÓN,11.996455192565918,1,85,496,18,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,28,"contenido del trabajo, de la memoria escrita y de la exposición oral. Es importante para el alumno",11.036693572998047,1,85,534,98,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,29,SÍNTESIS,11.996455192565918,1,85,210,8,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,29,NOTA,11.036693572998047,1,85,533,4,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,29,marypossamai@gmail.com,11.036693572998047,1,85,627,22,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,30,REFERENCIAS,11.996455192565918,1,120,96,11,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,30,BIBLIOGRAFIA CONSULTADA,11.996455192565918,1,120,420,23,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,31,Páginas WEB consultadas,11.996455192565918,1,120,172,23,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,32,ANEXOS,14.03603458404541,1,300,122,6,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,32,ANEXO A,11.996455192565918,1,302,163,7,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,32,Citas bibliográficas - Estilo A.P.A. (American Psychological Association),11.996455192565918,1,155,184,73,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,33,a. Citas en el texto,11.036693572998047,1,85,440,20,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,34,b. Referencias,11.036693572998047,1,85,365,14,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,35,"http://www.childstats.gov/pubs/index.asp [agosto, 2011]",11.036693572998047,1,191,565,55,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,36,http://suagm.edu/umet/biblioteca/UMTESIS/Tesis_Educación/ARAuinoRios,11.036693572998047,1,191,680,68,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,36,1512.pdf,11.036693572998047,1,191,699,8,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,39,ANEXO B - Modelo de portada,11.996455192565918,1,248,96,27,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,39,TÍTULO DEL TRABAJO,27.952003479003906,1,183,319,18,11.036693572998047,H1,1
+trabdeinvlineamientos1.pdf,39,Trabajo de Investigación,14.03603458404541,0,242,381,24,11.036693572998047,H2,1
+trabdeinvlineamientos1.pdf,39,Nombre y Apellido,17.994834899902344,0,241,508,17,11.036693572998047,H1,1
+trabdeinvlineamientos1.pdf,39,Nombre y Apellido,17.994834899902344,0,241,622,17,11.036693572998047,H1,1
+trabdeinvlineamientos1.pdf,40,ANEXO C,11.996455192565918,1,284,96,7,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,40,Datos para imprimir en los CD,11.996455192565918,1,232,109,29,11.036693572998047,H3,1
+trabdeinvlineamientos1.pdf,40,Título del trabajo,15.955316543579102,1,247,213,18,11.036693572998047,H2,1
+Образец_исследовательской_работы.pdf,1,Государственный Университет – Высшая Школа Экономики,13.979999542236328,0,134,69,52,12.0,H3,1
+Образец_исследовательской_работы.pdf,1,Факультет Экономики,13.979999542236328,0,249,85,19,12.0,H3,1
+Образец_исследовательской_работы.pdf,1,Исследовательская работа,16.020000457763672,1,230,215,24,12.0,H2,1
+Образец_исследовательской_работы.pdf,1,по курсу «Институциональная экономика»,16.020000457763672,0,170,252,38,12.0,H2,1
+Образец_исследовательской_работы.pdf,1,«Вход иностранного автопроизводителя на российский рынок: собственное,13.979999542236328,0,90,305,69,12.0,H3,1
+Образец_исследовательской_работы.pdf,1,производство или совместное предприятие?»,13.979999542236328,0,181,321,41,12.0,H3,1
+Образец_исследовательской_работы.pdf,2,Аннотация,12.0,1,85,67,9,12.0,H3,1
+Образец_исследовательской_работы.pdf,3,Оглавление,12.0,1,85,67,10,12.0,H3,1
+Образец_исследовательской_работы.pdf,4,Введение,12.0,1,85,67,8,12.0,H3,1
+Образец_исследовательской_работы.pdf,5,Обзор литературы,12.0,1,85,67,16,12.0,H3,1
+Образец_исследовательской_работы.pdf,9,Модель,12.0,1,85,67,6,12.0,H3,1
+Образец_исследовательской_работы.pdf,17,Заключение,12.0,1,85,67,10,12.0,H3,1
+Образец_исследовательской_работы.pdf,18,Список литературы,12.0,1,85,67,17,12.0,H3,1

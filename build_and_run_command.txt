@@ -1,0 +1,9 @@
+# Build the image
+docker build --platform linux/amd64 -t adobe-phase1final:latest .
+
+# Run the container (network disabled)
+docker run --rm \
+  -v ${PWD}/input:/app/input \
+  -v ${PWD}/output:/app/output \
+  --network none \
+  adobe-phase1final:latest
