@@ -30,12 +30,12 @@ A lightweight Logistic Regression classifier was trained with:
 PDF → Candidate Extractor → ML Heading Classifier → Level Estimation → Output JSON
 
 🚀 Performance & Constraints
-- Inference Time (50-page PDF): 8–9 seconds ✅
+- Inference Time (50-page PDF): 8–9 seconds ✅ (eg. tested on fb0724.pdf check input section of this repository for this file)
 - Internet Access: ❌ Not Required ✅
 - Docker Image Size: ~724MB ✅
 - CPU-Only: ✅ Compatible
 - JSON Output Format: ✅ Valid
-- Multilingual PDFs: ✅ Tested
+- Multilingual PDFs: ✅ Tested (tested on English, Hindi, Japanese, Spanish, Russian, Spanish etc check input section of this repository)
 
 🗂 Directory Structure
 - Dockerfile
@@ -70,7 +70,7 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
 - Features: Font features + layout
 - Accuracy: ~85%
 - Size: ~2 KB
-- Languages: 7+ tested
+- Languages: 7+ languages tested
 
 🧪 PDF Types Tested
 - Research papers
@@ -87,9 +87,10 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
 
 🙋 Author
 Team NoName
-Jitendra Kumar, Team Leader, Email: jitendra0905kumar@gmail.com
+Jitendra Kumar (Team Leader, Email: jitendra0905kumar@gmail.com)
 Yousha Raza
-GitHub: github.com/yourusername
+GitHub: github.com/code-god-jitendra
+Unstop: https://unstop.com/u/jitenkum4248
 
 ✅ Final Notes
 - Offline inference
