@@ -55,6 +55,8 @@ docker build --platform linux/amd64 -t adobe-phase1final:latest .
 Run:
 docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none adobe-phase1final:latest
 
+Note: Build phase can take 5-15 mins or variable depending upon your internet speed also keep internet connection on during build phase to install the necessary dependencies.
+
 📤 Output Format
 {
   "title": "Machine Learning Foundations",
@@ -87,10 +89,8 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
 
 🙋 Author
 Team NoName
-Jitendra Kumar (Team Leader, Email: jitendra0905kumar@gmail.com)
-Yousha Raza
-GitHub: github.com/code-god-jitendra
-Unstop: https://unstop.com/u/jitenkum4248
+Jitendra Kumar (Team Leader, Email: jitendra0905kumar@gmail.com, GitHub: github.com/code-god-jitendra, Unstop: https://unstop.com/u/jitenkum4248)
+Yousha Raza (Member, Email: razayousha3@gmail.com)
 
 ✅ Final Notes
 - Offline inference
