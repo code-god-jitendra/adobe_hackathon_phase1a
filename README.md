@@ -92,6 +92,8 @@ Team NoName
 Jitendra Kumar (Team Leader, Email: jitendra0905kumar@gmail.com, GitHub: github.com/code-god-jitendra, Unstop: https://unstop.com/u/jitenkum4248)
 Yousha Raza (Member, Email: razayousha3@gmail.com)
 
+Note: For any queries contact Jitendra Kumar
+
 ✅ Final Notes
 - Offline inference
 - Sub-10s runtime
